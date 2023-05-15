@@ -1055,3 +1055,14 @@ Stack trace:
 2021-11-12 01:34:48 pid:2477 Workerman[public/vendor/webmsgsender/start.php] start in DAEMON mode
 2021-11-30 17:56:44 pid:14658 Workerman[public/vendor/webmsgsender/start.php] start in DAEMON mode
 2021-12-03 01:36:18 pid:29582 Workerman[public/vendor/webmsgsender/start.php] start in DAEMON mode
+2023-05-15 10:02:23 pid:948 Workerman[start.php] start in DAEMON mode
+2023-05-15 10:03:57 pid:976 Workerman[start.php] start in DAEMON mode
+2023-05-15 10:03:57 pid:976 Workerman[start.php] already running
+2023-05-15 10:04:07 pid:979 Workerman[start.php] start in DAEMON mode
+2023-05-15 10:04:07 pid:979 Workerman[start.php] already running
+2023-05-15 10:04:16 pid:982 Workerman[start.php] start in DAEMON mode
+2023-05-15 10:04:16 pid:982 Workerman[start.php] already running
+2023-05-15 10:04:20 pid:985 Workerman[start.php] start in DAEMON mode
+2023-05-15 10:04:20 pid:985 Workerman[start.php] already running
+2023-05-15 10:04:28 pid:988 Workerman[start.php] start in DAEMON mode
+2023-05-15 10:04:28 pid:988 Workerman[start.php] already running

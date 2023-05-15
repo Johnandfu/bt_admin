@@ -124,7 +124,7 @@ class SmsController extends Controller
         }
         Redis::setex('code'.$phone, 600 , $verification_code);
        
-        $url = 'http://extend.jys.usdts.cloud/sms/?mobile='.$mobile.'&code='.$verification_code;
+        $url = 'http://bt_admin.test/sms/?mobile='.$mobile.'&code='.$verification_code;
         $return = file_get_contents($url);
         
         if ($return == '1') {
@@ -134,7 +134,7 @@ class SmsController extends Controller
         } else {
             
         }
-        // file_get_contents('http://extend.jys.usdts.cloud/sms/?mobile=13811078086&code=543434');
+        // file_get_contents('http://extend.bt_admin.test/sms/?mobile=13811078086&code=543434');
     }
 
     /**
