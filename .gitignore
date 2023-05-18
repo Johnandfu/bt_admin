@@ -1,5 +1,3 @@
 /public/upload
 .env
-/storage/*.key
-/vendor
-.env
+vendor
