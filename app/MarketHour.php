@@ -36,8 +36,8 @@ class MarketHour extends Model
     public static function getEsearchClient()
     {
         if (is_null(self::$esClient)) {
-            // $hosts = config('elasticsearch.hosts');
-            $hosts = array("localhost", "9200");
+            $hosts = config('elasticsearch.hosts');
+            //$hosts = array("localhost", "9200");
             self::$esClient = ClientBuilder::create()
                 ->setHosts($hosts)
                 ->build();
@@ -263,7 +263,7 @@ class MarketHour extends Model
     {
         empty($day_time) && $day_time = time();
         switch ($type) {
-            //15分钟
+                //15分钟
             case 1:
                 $start_time = strtotime(date('Y-m-d H:00:00', $day_time));
                 $minute = intval(date('i', $day_time));
@@ -271,11 +271,11 @@ class MarketHour extends Model
                 $minute = $multiple * 15;
                 $time = $start_time + $minute * 60;
                 break;
-            //1小时
+                //1小时
             case 2:
                 $time = strtotime(date('Y-m-d H:00:00', $day_time));
                 break;
-            //4小时
+                //4小时
             case 3:
                 $start_time = strtotime(date('Y-m-d', $day_time));
                 $hours = intval(date('H', $day_time));
@@ -283,16 +283,16 @@ class MarketHour extends Model
                 $hours = $multiple * 4;
                 $time = $start_time + $hours * 3600;
                 break;
-            //一天
+                //一天
             case 4:
                 $time = strtotime(date('Y-m-d', $day_time));
                 break;
-            //分时
+                //分时
             case 5:
                 $time_string = date('Y-m-d H:i', $day_time);
                 $time = strtotime($time_string);
                 break;
-            //5分钟
+                //5分钟
             case 6:
                 $start_time = strtotime(date('Y-m-d H:00:00', $day_time));
                 $minute = intval(date('i', $day_time));
@@ -300,7 +300,7 @@ class MarketHour extends Model
                 $minute = $multiple * 5;
                 $time = $start_time + $minute * 60;
                 break;
-            //30分钟
+                //30分钟
             case 7:
                 $start_time = strtotime(date('Y-m-d H:00:00', $day_time));
                 $minute = intval(date('i', $day_time));
@@ -308,19 +308,19 @@ class MarketHour extends Model
                 $minute = $multiple * 30;
                 $time = $start_time + $minute * 60;
                 break;
-            //一周
+                //一周
             case 8:
                 $start_time = strtotime(date('Y-m-d', $day_time));
                 $week = intval(date('w', $day_time));
                 $diff_day = $week;
                 $time = $start_time - $diff_day * 86400;
                 break;
-            //一月
+                //一月
             case 9:
                 $time_string = date('Y-m', $day_time);
                 $time = strtotime($time_string);
                 break;
-            //一年
+                //一年
             case 10:
                 $time = strtotime(date('Y-01-01', $day_time));
                 break;
@@ -350,7 +350,7 @@ class MarketHour extends Model
         // $market_data['close']>6600&&var_dump($market_data);
         $params = [
             'index' => 'market.kline',
-            'type' => 'doc',
+            'type' => '_doc',
             'id' => $type . '.' . $market_data['id'],
             'body' => $market_data,
         ];
@@ -373,7 +373,7 @@ class MarketHour extends Model
             bc_comp($market_data['low'], $data['low']) > 0 && $market_data['low'] = $data['low']; //新过来的价格如果不低于原最低价则不更新
         }
         if ($market_data['close'] > 6600) {
-//            echo 'get and set ' . json_encode($market_data);
+            //            echo 'get and set ' . json_encode($market_data);
         }
         $response = self::setEsearchMarket($market_data);
         return $response;
@@ -386,7 +386,7 @@ class MarketHour extends Model
             $type = $base_currency . '.' . $quote_currency . '.' . $peroid;
             $params = [
                 'index' => 'market.kline',
-                'type' => 'doc',
+                'type' => '_doc',
                 'id' => $type . '.' . $id,
             ];
             $result = $es_client->get($params);
@@ -437,8 +437,8 @@ class MarketHour extends Model
             if ($match->market_from == 1) {
                 $base_currencys = $currency_model->type;
             }
-            $res = file_get_contents("https://api.huobi.pro/market/history/kline?symbol=" . strtolower($base_currencys . $quote_currencys) . "&period={$peroid}&size=500");
-//        dd($res);
+            $res = file_get_contents("https://api.huobi.br.com/market/history/kline?symbol=" . strtolower($base_currencys . $quote_currencys) . "&period={$peroid}&size=500");
+            //        dd($res);
             $res = json_decode($res, true);
             $data_arr = [];
             if (!isset($res['data'])) {
@@ -461,14 +461,13 @@ class MarketHour extends Model
 
 
             $res = array_reverse($data_arr);
-
         } else {
 
             if ($peroid == '1min') {
                 $es_client = self::getEsearchClient();
                 $params = [
                     'index' => 'market.quotation',
-                    'type' => 'doc',//$type,
+                    'type' => '_doc', //$type,
                     'body' => [
                         'query' => [
                             'bool' => [
@@ -520,31 +519,23 @@ class MarketHour extends Model
                         'volume' => $_v['vol']
                     ];
                 }
-                if(in_array($peroid,['1min','5min','15min','30min','60min','1day']))
-                unset($res[count($res) - 1]);
-
-            } else{
+                if (in_array($peroid, ['1min', '5min', '15min', '30min', '60min', '1day']))
+                    unset($res[count($res) - 1]);
+            } else {
 
                 if ($peroid == '5min') {
-
                 } elseif ($peroid == '15min') {
-
                 } elseif ($peroid == '30min') {
-
                 } elseif ($peroid == '60min') {
-
                 } elseif ($peroid == '1day') {
-
                 } elseif ($peroid == '1week') {
-
                 } elseif ($peroid == '1mon') {
-
                 }
 
                 $es_client = self::getEsearchClient();
                 $params = [
-                    'index' => 'market.kline.'.$peroid,
-                    'type' => 'doc',//$type,
+                    'index' => 'market.kline.' . $peroid,
+                    'type' => '_doc', //$type,
                     'body' => [
                         'query' => [
                             'bool' => [
@@ -594,7 +585,7 @@ class MarketHour extends Model
                     ];
                 }
 
-                if(in_array($peroid,['1min','5min','15min','30min','60min','1day']))
+                if (in_array($peroid, ['1min', '5min', '15min', '30min', '60min', '1day']))
                     unset($res[count($res) - 1]);
             }
         }
@@ -624,7 +615,7 @@ class MarketHour extends Model
                     } else if ($v['period'] === '1mon') {
                         $next = strtotime('+1 month', $curren);
                     }
-//            var_dump("当前：{$curren},下一个时间戳:{$next}");
+                    //            var_dump("当前：{$curren},下一个时间戳:{$next}");
                     if ($needle['itime'] >= $curren && $needle['itime'] < $next) {
                         if (($v['period'] !== '1min' && $needle['itime'] < time()) || $v['period'] === '1min') {
                             if ($v['period'] === '1min') {
@@ -641,13 +632,10 @@ class MarketHour extends Model
                         }
                     }
                 }
-
             });
         }
-//die;
+        //die;
         return $res;
-
-
     }
 
     public static function batchEsearchMarket($base_currency, $quote_currency, $price, $time)
@@ -735,7 +723,7 @@ class MarketHour extends Model
         $es_client = self::getEsearchClient();
         $params = [
             'index' => 'market.kline',
-            'type' => 'doc',
+            'type' => '_doc',
             'body' => [
                 'query' => [
                     'bool' => [

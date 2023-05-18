@@ -59,7 +59,8 @@ class WebSocket extends Command
         $worker->name = 'Huobi Websocketddd';
         $worker->onWorkerStart = (function () {
 
-            $server_address = 'ws://api.huobi.pro:443/ws';
+          // $server_address = 'ws://api.huobi.pro:443/ws';
+           $server_address = 'ws://api.huobi.br.com:443/';
             AsyncTcpConnection::$defaultMaxPackageSize = 1048576000;
             $connection = new AsyncTcpConnection($server_address);
 

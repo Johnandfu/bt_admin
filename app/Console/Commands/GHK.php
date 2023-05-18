@@ -27,7 +27,7 @@ class GHK extends Command
      */
     protected $description = '获取K线图数据';
 
-    private $url = 'https://api.huobi.pro';//'https://api.huobi.pro';
+    private $url ='https://api.huobi.br.com';//'https://api.huobi.pro';
     private $api = '';
     public $api_method = '';
     public $req_method = '';

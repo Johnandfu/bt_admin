@@ -351,7 +351,7 @@ class CurrencyController extends Controller
         $symbol = strtolower($base . $quo);
 //        var_dump($base,$quo);
 //        die;
-        $url = "https://api.huobi.pro/market/history/trade?symbol={$symbol}&size=20";
+        $url = "https://api.huobi.br.com/market/history/trade?symbol={$symbol}&size=20";
         $res = json_decode(file_get_contents($url), true);
 
 

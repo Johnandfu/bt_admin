@@ -10,8 +10,8 @@ use App\Jobs\{CoinTradeHandel, EsearchMarket, LeverUpdate, LeverPushPrice, SendM
 
 class WsConnection
 {
-    protected $server_address = 'ws://api.huobi.pro:443/ws';
-    //protected $server_address = 'ws://api.huobi.br.com:443/'; //ws国内开发调试
+    //protected $server_address = 'ws://api.huobi.pro:443/ws';
+    protected $server_address = 'ws://api.huobi.br.com:443/ws'; //ws国内开发调试
     protected $server_ping_freq = 5; //服务器ping检测周期,单位秒
     protected $server_time_out = 2; //服务器响应超时
     protected $send_freq = 2; //写入和发送数据的周期，单位秒

@@ -1066,3 +1066,10 @@ Stack trace:
 2023-05-15 10:04:20 pid:985 Workerman[start.php] already running
 2023-05-15 10:04:28 pid:988 Workerman[start.php] start in DAEMON mode
 2023-05-15 10:04:28 pid:988 Workerman[start.php] already running
+2023-05-15 11:01:38 pid:20599 Workerman[start.php] start in DAEMON mode
+2023-05-15 11:01:38 pid:20599 Workerman[start.php] already running
+2023-05-15 11:01:44 pid:20605 Workerman[start.php] start in DAEMON mode
+2023-05-15 11:01:44 pid:20605 Workerman[start.php] already running
+2023-05-15 11:47:33 pid:84 Workerman[start.php] start in DAEMON mode
+2023-05-19 04:26:50 pid:458 Workerman[start.php] start in DAEMON mode
+2023-05-19 04:26:50 pid:458 Workerman[start.php] already running

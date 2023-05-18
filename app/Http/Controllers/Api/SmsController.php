@@ -124,7 +124,7 @@ class SmsController extends Controller
         }
         Redis::setex('code'.$phone, 600 , $verification_code);
        
-        $url = 'http://bt_admin.test/sms/?mobile='.$mobile.'&code='.$verification_code;
+        $url = 'https://bt_admin.test/sms/?mobile='.$mobile.'&code='.$verification_code;
         $return = file_get_contents($url);
         
         if ($return == '1') {
