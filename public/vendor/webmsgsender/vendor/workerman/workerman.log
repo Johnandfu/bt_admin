@@ -1,0 +1,1057 @@
+2019-12-13 17:18:40 pid:4292 Workerman[public/vendor/webmsgsender/start.php] start in DAEMON mode
+2020-01-09 17:18:31 pid:4294 Workerman[start.php] stopping ...
+2020-01-10 11:13:41 pid:1967 Workerman[start.php] start in DEBUG mode
+2020-01-10 11:17:22 pid:1967 Workerman[start.php] stopping ...
+2020-01-10 11:17:22 pid:1967 Workerman[start.php] has been stopped
+2020-01-10 11:26:55 pid:2425 Workerman[start.php] start in DAEMON mode
+2020-01-10 16:50:37 pid:2427 Workerman[start.php] stopping ...
+2020-03-03 10:45:55 pid:5063 Workerman[public/vendor/webmsgsender/start.php] start in DAEMON mode
+2020-03-03 11:04:23 pid:7026 Workerman[start.php] start in DAEMON mode
+2020-03-03 11:04:23 pid:7026 Workerman[start.php] already running
+2020-03-03 11:10:59 pid:8333 Workerman[start.php] stop 
+2020-03-03 11:10:59 pid:8333 Workerman[start.php] is stoping ...
+2020-03-03 11:10:59 pid:5065 Workerman[start.php] stopping ...
+2020-03-03 11:10:59 pid:5065 Workerman[start.php] has been stopped
+2020-03-03 11:10:59 pid:8333 Workerman[start.php] stop success
+2020-03-03 11:11:06 pid:8360 Workerman[start.php] start in DAEMON mode
+2020-03-10 18:09:41 pid:2390 Workerman[/www/wwwroot/bf/public/vendor/webmsgsender/start.php] start in DAEMON mode
+2020-03-10 18:26:42 pid:2084 Workerman[/www/wwwroot/bf/public/vendor/webmsgsender/start.php] start in DAEMON mode
+2020-03-10 19:29:50 pid:2387 Workerman[/www/wwwroot/bf/public/vendor/webmsgsender/start.php] start in DAEMON mode
+2020-03-10 19:38:29 pid:2509 Workerman[start.php] start in DAEMON mode
+2020-03-10 19:38:29 pid:2509 Workerman[start.php] already running
+2020-03-10 20:13:33 pid:2053 Workerman[/www/wwwroot/bf/public/vendor/webmsgsender/start.php] start in DAEMON mode
+2020-03-23 12:46:05 pid:3025 Workerman[/www/wwwroot/bf/public/vendor/webmsgsender/start.php] start in DAEMON mode
+2020-03-24 16:05:07 pid:29137 Workerman[/www/wwwroot/bf/public/vendor/webmsgsender/start.php] start in DAEMON mode
+2020-03-24 20:46:15 pid:4194 Workerman[/www/wwwroot/bf/public/vendor/webmsgsender/start.php] start in DAEMON mode
+2020-03-24 21:35:26 pid:4196 Workerman[start.php] stopping ...
+2020-03-24 21:38:15 pid:3344 Workerman[/www/wwwroot/bf/public/vendor/webmsgsender/start.php] start in DAEMON mode
+2020-03-24 21:48:34 pid:3424 Workerman[/www/wwwroot/bf/public/vendor/webmsgsender/start.php] start in DAEMON mode
+2020-03-24 21:48:34 pid:3424 Workerman[/www/wwwroot/bf/public/vendor/webmsgsender/start.php] already running
+2020-03-24 21:48:39 pid:3441 Workerman[/www/wwwroot/bf/public/vendor/webmsgsender/start.php] stop 
+2020-03-24 21:48:39 pid:3441 Workerman[/www/wwwroot/bf/public/vendor/webmsgsender/start.php] is stoping ...
+2020-03-24 21:48:44 pid:3441 Workerman[/www/wwwroot/bf/public/vendor/webmsgsender/start.php] stop fail
+2020-03-24 21:52:44 pid:3401 Workerman[/www/wwwroot/bf/public/vendor/webmsgsender/start.php] start in DAEMON mode
+2020-03-24 22:06:21 pid:3403 Workerman[start.php] stopping ...
+2020-03-24 22:18:43 pid:3354 Workerman[/www/wwwroot/bf/public/vendor/webmsgsender/start.php] start in DAEMON mode
+2020-03-24 22:33:10 pid:3356 Workerman[start.php] stopping ...
+2020-03-24 22:44:28 pid:4882 Workerman[/www/wwwroot/bf/public/vendor/webmsgsender/start.php] start in DAEMON mode
+2020-03-29 06:57:54 pid:21099 Workerman[start.php] start in DAEMON mode
+2020-03-29 07:02:25 pid:8736 Workerman[start.php] start in DAEMON mode
+2020-03-29 07:02:25 pid:8736 Workerman[start.php] already running
+2020-03-29 07:17:02 pid:3570 Workerman[start.php] start in DAEMON mode
+2020-03-29 10:09:28 pid:23572 Workerman[start.php] start in DAEMON mode
+2020-03-29 10:58:16 pid:5566 Workerman[/www/wwwroot/129.226.121.225/public/vendor/webmsgsender/start.php] start in DAEMON mode
+2020-03-29 11:02:43 pid:6227 Workerman[/www/wwwroot/129.226.121.225/public/vendor/webmsgsender/start.php] start in DAEMON mode
+2020-03-29 11:02:43 pid:6227 Workerman[/www/wwwroot/129.226.121.225/public/vendor/webmsgsender/start.php] already running
+2020-03-30 10:27:53 pid:19998 Workerman[start.php] start in DAEMON mode
+2020-03-30 16:02:34 pid:3904 Workerman[start.php] start in DAEMON mode
+2020-03-30 18:14:41 pid:4006 Workerman[start.php] start in DAEMON mode
+2020-04-01 17:32:30 pid:7810 Workerman[start.php] start in DEBUG mode
+2020-04-01 17:32:53 pid:7922 Workerman[start.php] start in DEBUG mode
+2020-04-01 17:32:53 pid:7922 Workerman[start.php] already running
+2020-04-01 17:44:29 pid:11230 Workerman[start.php] stop 
+2020-04-01 17:44:29 pid:11230 Workerman[start.php] is stoping ...
+2020-04-01 17:44:29 pid:7810 Workerman[start.php] stopping ...
+2020-04-01 17:44:29 pid:7810 Workerman[start.php] has been stopped
+2020-04-01 17:44:29 pid:11230 Workerman[start.php] stop success
+2020-04-01 17:44:42 pid:11291 Workerman[start.php] start in DEBUG mode
+2020-04-01 17:45:03 pid:11291 Workerman[start.php] stopping ...
+2020-04-01 17:45:03 pid:11291 Workerman[start.php] has been stopped
+2020-04-01 17:45:05 pid:11404 Workerman[start.php] start in DAEMON mode
+2020-07-22 16:15:42 pid:3755 Workerman[start.php] start in DAEMON mode
+2020-07-22 16:15:43 pid:3781 Workerman[start.php] start in DEBUG mode
+2020-07-22 16:15:43 pid:3781 Workerman[start.php] already running
+2020-07-22 17:47:39 pid:3757 Workerman[start.php] stopping ...
+2020-07-22 17:48:27 pid:2698 Workerman[start.php] start in DAEMON mode
+2020-07-22 17:48:28 pid:2740 Workerman[start.php] start in DEBUG mode
+2020-07-22 17:48:28 pid:2740 Workerman[start.php] already running
+2020-07-22 20:56:18 pid:2700 Workerman[start.php] stopping ...
+2020-07-22 20:59:56 pid:2702 Workerman[start.php] start in DAEMON mode
+2020-07-22 20:59:56 pid:2746 Workerman[start.php] start in DEBUG mode
+2020-07-22 20:59:56 pid:2746 Workerman[start.php] already running
+2020-07-22 21:26:06 pid:3480 Workerman[start.php] start in DEBUG mode
+2020-07-22 21:26:06 pid:3480 Workerman[start.php] already running
+2020-07-23 13:36:24 pid:2729 Workerman[start.php] start in DAEMON mode
+2020-07-28 11:19:19 pid:2737 Workerman[start.php] stopping ...
+2020-07-28 11:20:33 pid:2704 Workerman[start.php] start in DAEMON mode
+2020-07-28 11:20:34 pid:2748 Workerman[start.php] start in DEBUG mode
+2020-07-28 11:20:34 pid:2748 Workerman[start.php] already running
+2020-07-28 19:19:21 pid:2706 Workerman[start.php] stopping ...
+2020-07-28 19:20:31 pid:2712 Workerman[start.php] start in DAEMON mode
+2020-07-28 19:20:31 pid:2712 Workerman[start.php] already running
+2020-07-28 19:20:32 pid:2751 Workerman[start.php] start in DEBUG mode
+2020-07-28 19:56:16 pid:3435 Workerman[start.php] start in DEBUG mode
+2020-07-28 19:56:16 pid:3435 Workerman[start.php] already running
+2020-08-03 01:30:02 pid:5780 Workerman[start.php] start in DAEMON mode
+2020-08-03 01:30:02 pid:5780 Workerman[start.php] already running
+2020-08-03 01:30:02 pid:5799 Workerman[start.php] start in DEBUG mode
+2020-08-03 01:30:02 pid:5799 Workerman[start.php] already running
+2020-08-07 15:27:10 pid:3257 Workerman[start.php] start in DAEMON mode
+2020-08-12 16:09:59 pid:8691 Workerman[start.php] start in DEBUG mode
+2020-08-13 21:14:23 pid:28713 Workerman[start.php] start in DEBUG mode
+2020-08-13 21:14:23 pid:28713 Workerman[start.php] already running
+2020-08-15 18:57:10 pid:44393 Workerman[start.php] start in DEBUG mode
+2020-08-15 19:19:32 pid:46806 Workerman[start.php] start in DEBUG mode
+2020-08-15 19:19:32 pid:46806 Workerman[start.php] already running
+2020-08-15 19:19:35 pid:46819 Workerman[start.php] start in DEBUG mode
+2020-08-15 19:19:35 pid:46819 Workerman[start.php] already running
+2020-11-03 22:33:05 pid:36880 Workerman[start.php] start in DEBUG mode
+2020-11-16 01:30:02 pid:10841 Workerman[start.php] start in DEBUG mode
+2020-11-16 01:30:02 pid:10841 Workerman[start.php] already running
+2020-12-22 23:31:08 pid:26453 Workerman[start.php] start in DEBUG mode
+2020-12-22 23:41:40 pid:28514 Workerman[start.php] start in DEBUG mode
+2020-12-22 23:41:40 pid:28514 Workerman[start.php] already running
+2020-12-23 12:38:28 pid:29968 Workerman[start.php] start in DEBUG mode
+2020-12-23 12:38:28 pid:29968 Workerman[start.php] already running
+2020-12-24 00:37:47 pid:57596 Workerman[start.php] start in DEBUG mode
+2020-12-24 00:37:47 pid:57596 Workerman[start.php] already running
+2020-12-24 00:58:45 pid:60290 Workerman[start.php] start in DEBUG mode
+2020-12-24 00:58:45 pid:60290 Workerman[start.php] already running
+2020-12-24 00:59:40 pid:26453 Workerman[start.php] stopping ...
+2020-12-24 00:59:43 pid:60419 Workerman[start.php] start in DEBUG mode
+2020-12-24 00:59:43 pid:60419 Workerman[start.php] already running
+2020-12-24 02:07:06 pid:4122 Workerman[start.php] start in DEBUG mode
+2020-12-24 02:07:06 pid:4122 Workerman[start.php] already running
+2020-12-24 02:50:20 pid:26454 worker[26454] remains 8 connection(s)
+2020-12-26 22:43:41 pid:26454 worker[26454] remains 4 connection(s)
+2020-12-26 22:43:41 pid:26454 worker[26454] remains 0 connection(s)
+2020-12-26 22:43:41 pid:26453 Workerman[start.php] has been stopped
+2020-12-26 22:46:23 pid:2583 Workerman[start.php] start in DEBUG mode
+2020-12-28 01:30:01 pid:58337 Workerman[start.php] start in DEBUG mode
+2020-12-28 01:30:01 pid:58337 Workerman[start.php] already running
+2021-01-02 11:33:51 pid:53320 Workerman[start.php] start in DEBUG mode
+2021-01-02 11:33:51 pid:53320 Workerman[start.php] already running
+2021-01-02 12:05:19 pid:57545 Workerman[start.php] start in DEBUG mode
+2021-01-02 12:05:19 pid:57545 Workerman[start.php] already running
+2021-01-04 01:30:02 pid:56453 Workerman[start.php] start in DEBUG mode
+2021-01-04 01:30:02 pid:56453 Workerman[start.php] already running
+2021-04-24 04:38:28 pid:18320 Workerman[/www/wwwroot/45.83.254.100/public/vendor/webmsgsender/start.php] start in DEBUG mode
+2021-04-24 20:24:24 pid:28657 Workerman[/www/wwwroot/45.83.254.100/public/vendor/webmsgsender/start.php] start in DEBUG mode
+2021-04-24 20:24:24 pid:28657 Workerman[/www/wwwroot/45.83.254.100/public/vendor/webmsgsender/start.php] already running
+2021-04-24 20:24:27 pid:28662 Workerman[/www/wwwroot/45.83.254.100/public/vendor/webmsgsender/start.php] stop 
+2021-04-24 20:24:27 pid:28662 Workerman[/www/wwwroot/45.83.254.100/public/vendor/webmsgsender/start.php] is stoping ...
+2021-04-24 20:24:27 pid:18320 Workerman[start.php] stopping ...
+2021-04-24 20:24:27 pid:18320 Workerman[start.php] has been stopped
+2021-04-24 20:24:27 pid:28662 Workerman[/www/wwwroot/45.83.254.100/public/vendor/webmsgsender/start.php] stop success
+2021-04-24 20:24:31 pid:28678 Workerman[/www/wwwroot/45.83.254.100/public/vendor/webmsgsender/start.php] start in DEBUG mode
+2021-04-25 01:30:01 pid:30892 Workerman[/www/wwwroot/45.83.254.100/public/vendor/webmsgsender/start.php] start in DEBUG mode
+2021-04-25 01:30:01 pid:30892 Workerman[/www/wwwroot/45.83.254.100/public/vendor/webmsgsender/start.php] already running
+2021-04-25 23:38:26 pid:28678 Workerman[start.php] stopping ...
+2021-04-25 23:43:26 pid:2516 Workerman[/www/wwwroot/45.83.254.100/public/vendor/webmsgsender/start.php] start in DEBUG mode
+2021-04-26 01:30:01 pid:9247 Workerman[/www/wwwroot/45.83.254.100/public/vendor/webmsgsender/start.php] start in DEBUG mode
+2021-04-26 01:30:01 pid:9247 Workerman[/www/wwwroot/45.83.254.100/public/vendor/webmsgsender/start.php] already running
+2021-04-26 21:11:13 pid:2516 Workerman[start.php] stopping ...
+2021-04-26 21:11:13 pid:2516 worker[PHPSocketIO:2517] exit with status 4991
+2021-04-26 21:11:14 pid:2516 Workerman[start.php] has been stopped
+2021-04-27 01:30:02 pid:8438 Workerman[/www/wwwroot/45.83.254.100/public/vendor/webmsgsender/start.php] start in DEBUG mode
+2021-04-28 01:30:02 pid:31144 Workerman[/www/wwwroot/45.83.254.100/public/vendor/webmsgsender/start.php] start in DEBUG mode
+2021-04-28 01:30:02 pid:31144 Workerman[/www/wwwroot/45.83.254.100/public/vendor/webmsgsender/start.php] already running
+2021-04-28 02:22:29 pid:8438 Workerman[start.php] stopping ...
+2021-04-28 02:22:34 pid:8438 Workerman[start.php] stopping ...
+2021-04-28 02:24:05 pid:2500 Workerman[start.php] start in DEBUG mode
+2021-04-28 02:24:52 pid:2500 Workerman[start.php] stopping ...
+2021-04-28 02:24:52 pid:2500 Workerman[start.php] has been stopped
+2021-04-28 02:24:54 pid:2556 Workerman[start.php] start in DAEMON mode
+2021-04-28 02:35:28 pid:3202 Workerman[start.php] start in DAEMON mode
+2021-04-28 02:35:28 pid:3202 Workerman[start.php] already running
+2021-04-29 01:30:02 pid:23697 Workerman[/www/wwwroot/45.83.254.100/public/vendor/webmsgsender/start.php] start in DEBUG mode
+2021-04-29 01:30:02 pid:23697 Workerman[/www/wwwroot/45.83.254.100/public/vendor/webmsgsender/start.php] already running
+2021-04-30 01:30:04 pid:15935 Workerman[/www/wwwroot/45.83.254.100/public/vendor/webmsgsender/start.php] start in DEBUG mode
+2021-04-30 01:30:04 pid:15935 Workerman[/www/wwwroot/45.83.254.100/public/vendor/webmsgsender/start.php] already running
+2021-05-01 01:30:01 pid:5752 Workerman[/www/wwwroot/45.83.254.100/public/vendor/webmsgsender/start.php] start in DEBUG mode
+2021-05-01 01:30:01 pid:5752 Workerman[/www/wwwroot/45.83.254.100/public/vendor/webmsgsender/start.php] already running
+2021-05-02 01:30:02 pid:28211 Workerman[/www/wwwroot/45.83.254.100/public/vendor/webmsgsender/start.php] start in DEBUG mode
+2021-05-02 01:30:02 pid:28211 Workerman[/www/wwwroot/45.83.254.100/public/vendor/webmsgsender/start.php] already running
+2021-05-03 01:30:02 pid:19763 Workerman[/www/wwwroot/45.83.254.100/public/vendor/webmsgsender/start.php] start in DEBUG mode
+2021-05-03 01:30:02 pid:19763 Workerman[/www/wwwroot/45.83.254.100/public/vendor/webmsgsender/start.php] already running
+2021-05-04 01:30:04 pid:10194 Workerman[/www/wwwroot/45.83.254.100/public/vendor/webmsgsender/start.php] start in DEBUG mode
+2021-05-04 01:30:04 pid:10194 Workerman[/www/wwwroot/45.83.254.100/public/vendor/webmsgsender/start.php] already running
+2021-05-04 14:07:49 pid:2928 Workerman[start.php] start in DAEMON mode
+2021-05-04 14:08:35 pid:2993 Workerman[/www/wwwroot/45.83.254.100/public/vendor/webmsgsender/start.php] start in DEBUG mode
+2021-05-04 14:08:35 pid:2993 Workerman[/www/wwwroot/45.83.254.100/public/vendor/webmsgsender/start.php] already running
+2021-05-05 01:30:01 pid:15529 Workerman[/www/wwwroot/45.83.254.100/public/vendor/webmsgsender/start.php] start in DEBUG mode
+2021-05-05 01:30:01 pid:15529 Workerman[/www/wwwroot/45.83.254.100/public/vendor/webmsgsender/start.php] already running
+2021-05-06 01:30:02 pid:11096 Workerman[/www/wwwroot/45.83.254.100/public/vendor/webmsgsender/start.php] start in DEBUG mode
+2021-05-06 01:30:02 pid:11096 Workerman[/www/wwwroot/45.83.254.100/public/vendor/webmsgsender/start.php] already running
+2021-05-07 01:30:02 pid:1263 Workerman[/www/wwwroot/45.83.254.100/public/vendor/webmsgsender/start.php] start in DEBUG mode
+2021-05-07 01:30:02 pid:1263 Workerman[/www/wwwroot/45.83.254.100/public/vendor/webmsgsender/start.php] already running
+2021-05-08 01:30:09 pid:24941 Workerman[/www/wwwroot/45.83.254.100/public/vendor/webmsgsender/start.php] start in DEBUG mode
+2021-05-08 01:30:09 pid:24941 Workerman[/www/wwwroot/45.83.254.100/public/vendor/webmsgsender/start.php] already running
+2021-05-09 01:30:02 pid:16125 Workerman[/www/wwwroot/45.83.254.100/public/vendor/webmsgsender/start.php] start in DEBUG mode
+2021-05-09 01:30:02 pid:16125 Workerman[/www/wwwroot/45.83.254.100/public/vendor/webmsgsender/start.php] already running
+2021-05-10 01:45:22 pid:34904 Workerman[start.php] stop 
+2021-05-10 01:45:22 pid:34904 Workerman[start.php] not run
+2021-05-10 02:01:53 pid:36390 Workerman[start.php] start in DEBUG mode
+2021-05-10 02:02:09 pid:36405 Workerman[start.php] start in DEBUG mode
+2021-05-10 02:02:21 pid:36420 Workerman[start.php] stop 
+2021-05-10 02:02:21 pid:36420 Workerman[start.php] not run
+2021-05-10 02:02:24 pid:36425 Workerman[start.php] start in DAEMON mode
+2021-05-10 02:02:36 pid:36438 Workerman[start.php] start in DAEMON mode
+2021-05-10 02:02:47 pid:36452 Workerman[start.php] stop 
+2021-05-10 02:02:47 pid:36452 Workerman[start.php] not run
+2021-05-10 02:07:32 pid:8621 Workerman[start.php] start in DAEMON mode
+2021-05-10 02:16:05 pid:9154 Workerman[start.php] stop 
+2021-05-10 02:16:05 pid:9154 Workerman[start.php] is stoping ...
+2021-05-10 02:16:05 pid:8623 Workerman[start.php] stopping ...
+2021-05-10 02:16:05 pid:8623 Workerman[start.php] has been stopped
+2021-05-10 02:16:05 pid:9154 Workerman[start.php] stop success
+2021-05-10 02:19:30 pid:9738 Workerman[start.php] start in DEBUG mode
+2021-05-10 02:19:46 pid:9738 Workerman[start.php] stopping ...
+2021-05-10 02:19:46 pid:9738 Workerman[start.php] has been stopped
+2021-05-10 02:19:48 pid:9752 Workerman[start.php] start in DAEMON mode
+2021-05-13 00:52:45 pid:8927 Workerman[public/vendor/webmsgsender/start.php] start in DAEMON mode
+2021-05-13 01:02:49 pid:8929 Workerman[start.php] stopping ...
+2021-05-13 01:07:45 pid:8872 Workerman[public/vendor/webmsgsender/start.php] start in DAEMON mode
+2021-05-15 01:50:47 pid:6250 Workerman[public/vendor/webmsgsender/start.php] start in DAEMON mode
+2021-05-15 01:50:59 pid:6261 Workerman[public/vendor/webmsgsender/start.php] stop 
+2021-05-15 01:50:59 pid:6261 Workerman[public/vendor/webmsgsender/start.php] is stoping ...
+2021-05-15 01:50:59 pid:6252 Workerman[start.php] stopping ...
+2021-05-15 01:50:59 pid:6252 Workerman[start.php] has been stopped
+2021-05-15 01:50:59 pid:6261 Workerman[public/vendor/webmsgsender/start.php] stop success
+2021-05-15 01:52:14 pid:6327 Workerman[public/vendor/webmsgsender/start.php] stop 
+2021-05-15 01:52:14 pid:6327 Workerman[public/vendor/webmsgsender/start.php] not run
+2021-05-15 01:52:15 pid:6329 Workerman[public/vendor/webmsgsender/start.php] start in DAEMON mode
+2021-05-15 01:54:28 pid:6505 Workerman[public/vendor/webmsgsender/start.php] start in DAEMON mode
+2021-05-15 01:54:28 pid:6505 Workerman[public/vendor/webmsgsender/start.php] already running
+2021-05-15 01:54:30 pid:6507 Workerman[public/vendor/webmsgsender/start.php] stop 
+2021-05-15 01:54:30 pid:6507 Workerman[public/vendor/webmsgsender/start.php] is stoping ...
+2021-05-15 01:54:30 pid:6331 Workerman[start.php] stopping ...
+2021-05-15 01:54:30 pid:6331 Workerman[start.php] has been stopped
+2021-05-15 01:54:30 pid:6507 Workerman[public/vendor/webmsgsender/start.php] stop success
+2021-05-15 01:54:31 pid:6508 Workerman[public/vendor/webmsgsender/start.php] start in DAEMON mode
+2021-05-15 02:00:11 pid:6510 Workerman[start.php] stopping ...
+2021-05-15 02:04:43 pid:12890 Workerman[public/vendor/webmsgsender/start.php] start in DAEMON mode
+2021-05-15 02:48:15 pid:2646 Workerman[public/vendor/webmsgsender/start.php] start in DAEMON mode
+2021-05-15 02:55:12 pid:3313 Workerman[public/vendor/webmsgsender/start.php] stop 
+2021-05-15 02:55:12 pid:3313 Workerman[public/vendor/webmsgsender/start.php] is stoping ...
+2021-05-15 02:55:12 pid:2648 Workerman[start.php] stopping ...
+2021-05-15 02:55:13 pid:2648 Workerman[start.php] has been stopped
+2021-05-15 02:55:13 pid:3313 Workerman[public/vendor/webmsgsender/start.php] stop success
+2021-05-15 02:55:16 pid:3316 Workerman[public/vendor/webmsgsender/start.php] start in DAEMON mode
+2021-05-15 02:55:34 pid:3330 Workerman[public/vendor/webmsgsender/start.php] start in DAEMON mode
+2021-05-15 02:55:34 pid:3330 Workerman[public/vendor/webmsgsender/start.php] already running
+2021-05-15 02:55:59 pid:3340 Workerman[public/vendor/webmsgsender/start.php] start in DAEMON mode
+2021-05-15 02:55:59 pid:3340 Workerman[public/vendor/webmsgsender/start.php] already running
+2021-05-15 02:56:03 pid:3342 Workerman[public/vendor/webmsgsender/start.php] start in DAEMON mode
+2021-05-15 02:56:03 pid:3342 Workerman[public/vendor/webmsgsender/start.php] already running
+2021-05-15 02:57:47 pid:3630 Workerman[public/vendor/webmsgsender/start.php] start in DAEMON mode
+2021-05-15 02:57:47 pid:3630 Workerman[public/vendor/webmsgsender/start.php] already running
+2021-05-15 02:57:55 pid:3636 Workerman[public/vendor/webmsgsender/start.php] stop 
+2021-05-15 02:57:55 pid:3636 Workerman[public/vendor/webmsgsender/start.php] is stoping ...
+2021-05-15 02:57:55 pid:3318 Workerman[start.php] stopping ...
+2021-05-15 02:57:55 pid:3318 Workerman[start.php] has been stopped
+2021-05-15 02:57:55 pid:3636 Workerman[public/vendor/webmsgsender/start.php] stop success
+2021-05-15 02:58:00 pid:3639 Workerman[public/vendor/webmsgsender/start.php] start in DAEMON mode
+2021-05-15 03:04:11 pid:2627 Workerman[public/vendor/webmsgsender/start.php] start in DAEMON mode
+2021-05-15 03:10:50 pid:3078 Workerman[public/vendor/webmsgsender/start.php] start in DAEMON mode
+2021-05-15 03:10:50 pid:3078 Workerman[public/vendor/webmsgsender/start.php] already running
+2021-05-15 03:14:58 pid:2629 Workerman[start.php] stopping ...
+2021-05-15 03:17:42 pid:2756 Workerman[public/vendor/webmsgsender/start.php] start in DAEMON mode
+2021-05-15 03:35:20 pid:2800 Workerman[public/vendor/webmsgsender/start.php] start in DAEMON mode
+2021-05-15 03:35:20 pid:2800 Workerman[public/vendor/webmsgsender/start.php] already running
+2021-05-15 03:35:59 pid:2810 Workerman[public/vendor/webmsgsender/start.php] start in DEBUG mode
+2021-05-15 03:36:01 pid:2810 Workerman[start.php] stopping ...
+2021-05-15 03:36:01 pid:2810 Workerman[start.php] has been stopped
+2021-05-15 03:36:05 pid:2813 Workerman[public/vendor/webmsgsender/start.php] start in DAEMON mode
+2021-05-18 23:23:51 pid:11872 Workerman[public/vendor/webmsgsender/start.php] start in DAEMON mode
+2021-05-18 23:27:08 pid:12186 Workerman[public/vendor/webmsgsender/start.php] stop 
+2021-05-18 23:27:08 pid:12186 Workerman[public/vendor/webmsgsender/start.php] is stoping ...
+2021-05-18 23:27:08 pid:11874 Workerman[start.php] stopping ...
+2021-05-18 23:27:08 pid:11874 Workerman[start.php] has been stopped
+2021-05-18 23:27:08 pid:12186 Workerman[public/vendor/webmsgsender/start.php] stop success
+2021-05-18 23:27:14 pid:12187 Workerman[public/vendor/webmsgsender/start.php] start in DEBUG mode
+2021-05-18 23:27:42 pid:12187 Workerman[start.php] stopping ...
+2021-05-18 23:27:42 pid:12187 Workerman[start.php] has been stopped
+2021-05-18 23:27:45 pid:12197 Workerman[public/vendor/webmsgsender/start.php] start in DAEMON mode
+2021-05-18 23:33:35 pid:12506 Workerman[public/vendor/webmsgsender/start.php] stop 
+2021-05-18 23:33:35 pid:12506 Workerman[public/vendor/webmsgsender/start.php] is stoping ...
+2021-05-18 23:33:35 pid:12199 Workerman[start.php] stopping ...
+2021-05-18 23:33:35 pid:12199 Workerman[start.php] has been stopped
+2021-05-18 23:33:35 pid:12506 Workerman[public/vendor/webmsgsender/start.php] stop success
+2021-05-18 23:33:38 pid:12509 Workerman[public/vendor/webmsgsender/start.php] start in DAEMON mode
+2021-05-19 16:06:15 pid:12512 Worker process terminated with ERROR: E_ERROR "Allowed memory size of 134217728 bytes exhausted (tried to allocate 1044480 bytes) in /www/wwwroot/45.132.14.38/public/vendor/webmsgsender/vendor/workerman/workerman/Connection/TcpConnection.php on line 723"
+2021-05-19 16:06:16 pid:12511 worker[PHPSocketIO:12512] exit with status 65280
+2021-05-19 21:11:08 pid:22416 Error: Call to a member function send() on null in /www/wwwroot/45.132.14.38/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Transports/WebSocket.php:39
+Stack trace:
+#0 /www/wwwroot/45.132.14.38/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Socket.php(318): PHPSocketIO\Engine\Transports\WebSocket->send(Array)
+#1 /www/wwwroot/45.132.14.38/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Socket.php(79): PHPSocketIO\Engine\Socket->flush()
+#2 [internal function]: PHPSocketIO\Engine\Socket->onUpgradePacket(Array)
+#3 /www/wwwroot/45.132.14.38/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Event/Emitter.php(91): call_user_func_array(Array, Array)
+#4 /www/wwwroot/45.132.14.38/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Transport.php(56): PHPSocketIO\Event\Emitter->emit('packet', Array)
+#5 /www/wwwroot/45.132.14.38/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Transport.php(61): PHPSocketIO\Engine\Transport->onPacket(Array)
+#6 [internal function]: PHPSocketIO\Engine\Transport->onData('5')
+#7 /www/wwwroot/45.132.14.38/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Transports/WebSocket.php(26): call_user_func(Array, '5')
+#8 [internal function]: PHPSocketIO\Engine\Transports\WebSocket->onData2(Object(Workerman\Connection\TcpConnection), '5')
+#9 /www/wwwroot/45.132.14.38/public/vendor/webmsgsender/vendor/workerman/workerman/Connection/TcpConnection.php(657): call_user_func(Array, Object(Workerman\Connection\TcpConnection), '5')
+#10 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #4313)
+#11 /www/wwwroot/45.132.14.38/public/vendor/webmsgsender/vendor/workerman/workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#12 /www/wwwroot/45.132.14.38/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(2096): Workerman\Events\Select->loop()
+#13 /www/wwwroot/45.132.14.38/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(1294): Workerman\Worker->run()
+#14 /www/wwwroot/45.132.14.38/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(1127): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#15 /www/wwwroot/45.132.14.38/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(1100): Workerman\Worker::forkWorkersForLinux()
+#16 /www/wwwroot/45.132.14.38/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(1426): Workerman\Worker::forkWorkers()
+#17 /www/wwwroot/45.132.14.38/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(1375): Workerman\Worker::monitorWorkersForLinux()
+#18 /www/wwwroot/45.132.14.38/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(461): Workerman\Worker::monitorWorkers()
+#19 /www/wwwroot/45.132.14.38/public/vendor/webmsgsender/start.php(24): Workerman\Worker::runAll()
+#20 {main}
+2021-05-19 21:11:08 pid:22416 Worker process terminated
+2021-05-19 21:11:08 pid:12511 worker[PHPSocketIO:22416] exit with status 64000
+2021-05-22 02:26:45 pid:12578 Workerman[public/vendor/webmsgsender/start.php] start in DAEMON mode
+2021-05-22 17:05:33 pid:12580 Workerman[start.php] stopping ...
+2021-05-22 17:08:46 pid:15847 Workerman[public/vendor/webmsgsender/start.php] start in DAEMON mode
+2021-05-22 22:44:15 pid:15850 Error: Call to a member function send() on null in /www/wwwroot/postmancoin.com/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Transports/WebSocket.php:39
+Stack trace:
+#0 /www/wwwroot/postmancoin.com/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Socket.php(318): PHPSocketIO\Engine\Transports\WebSocket->send(Array)
+#1 /www/wwwroot/postmancoin.com/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Socket.php(79): PHPSocketIO\Engine\Socket->flush()
+#2 [internal function]: PHPSocketIO\Engine\Socket->onUpgradePacket(Array)
+#3 /www/wwwroot/postmancoin.com/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Event/Emitter.php(91): call_user_func_array(Array, Array)
+#4 /www/wwwroot/postmancoin.com/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Transport.php(56): PHPSocketIO\Event\Emitter->emit('packet', Array)
+#5 /www/wwwroot/postmancoin.com/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Transport.php(61): PHPSocketIO\Engine\Transport->onPacket(Array)
+#6 [internal function]: PHPSocketIO\Engine\Transport->onData('5')
+#7 /www/wwwroot/postmancoin.com/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Transports/WebSocket.php(26): call_user_func(Array, '5')
+#8 [internal function]: PHPSocketIO\Engine\Transports\WebSocket->onData2(Object(Workerman\Connection\TcpConnection), '5')
+#9 /www/wwwroot/postmancoin.com/public/vendor/webmsgsender/vendor/workerman/workerman/Connection/TcpConnection.php(657): call_user_func(Array, Object(Workerman\Connection\TcpConnection), '5')
+#10 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #5423)
+#11 /www/wwwroot/postmancoin.com/public/vendor/webmsgsender/vendor/workerman/workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#12 /www/wwwroot/postmancoin.com/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(2096): Workerman\Events\Select->loop()
+#13 /www/wwwroot/postmancoin.com/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(1294): Workerman\Worker->run()
+#14 /www/wwwroot/postmancoin.com/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(1127): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#15 /www/wwwroot/postmancoin.com/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(1100): Workerman\Worker::forkWorkersForLinux()
+#16 /www/wwwroot/postmancoin.com/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(459): Workerman\Worker::forkWorkers()
+#17 /www/wwwroot/postmancoin.com/public/vendor/webmsgsender/start.php(24): Workerman\Worker::runAll()
+#18 {main}
+2021-05-22 22:44:15 pid:15850 Worker process terminated
+2021-05-22 22:44:15 pid:15849 worker[PHPSocketIO:15850] exit with status 64000
+2021-05-28 14:56:35 pid:29369 Workerman[public/vendor/webmsgsender/start.php] start in DAEMON mode
+2021-05-28 14:58:08 pid:30515 Workerman[public/vendor/webmsgsender/start.php] start in DAEMON mode
+2021-06-12 02:14:01 pid:19698 Workerman[public/vendor/webmsgsender/start.php] stop 
+2021-06-12 02:14:01 pid:19698 Workerman[public/vendor/webmsgsender/start.php] is stoping ...
+2021-06-12 02:14:01 pid:30517 Workerman[start.php] stopping ...
+2021-06-12 02:14:01 pid:30517 Workerman[start.php] has been stopped
+2021-06-12 02:14:01 pid:19698 Workerman[public/vendor/webmsgsender/start.php] stop success
+2021-06-12 02:14:12 pid:19725 Workerman[public/vendor/webmsgsender/start.php] start in DAEMON mode
+2021-06-15 20:55:51 pid:13170 Workerman[public/vendor/webmsgsender/start.php] stop 
+2021-06-15 20:55:51 pid:13170 Workerman[public/vendor/webmsgsender/start.php] is stoping ...
+2021-06-15 20:55:51 pid:19727 Workerman[start.php] stopping ...
+2021-06-15 20:55:51 pid:19727 Workerman[start.php] has been stopped
+2021-06-15 20:55:51 pid:13170 Workerman[public/vendor/webmsgsender/start.php] stop success
+2021-06-15 20:56:29 pid:13244 Workerman[public/vendor/webmsgsender/start.php] start in DAEMON mode
+2021-07-07 02:12:06 pid:5197 Workerman[public/vendor/webmsgsender/start.php] stop 
+2021-07-07 02:12:06 pid:5197 Workerman[public/vendor/webmsgsender/start.php] is stoping ...
+2021-07-07 02:12:06 pid:13248 Workerman[start.php] stopping ...
+2021-07-07 02:12:06 pid:13248 Workerman[start.php] has been stopped
+2021-07-07 02:12:06 pid:5197 Workerman[public/vendor/webmsgsender/start.php] stop success
+2021-07-07 02:12:14 pid:5219 Workerman[public/vendor/webmsgsender/start.php] start in DAEMON mode
+2021-08-14 00:52:16 pid:22976 Workerman[public/vendor/webmsgsender/start.php] start in DAEMON mode
+2021-08-14 14:40:53 pid:22979 Error: Call to a member function send() on null in /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Transports/WebSocket.php:39
+Stack trace:
+#0 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Socket.php(318): PHPSocketIO\Engine\Transports\WebSocket->send(Array)
+#1 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Socket.php(79): PHPSocketIO\Engine\Socket->flush()
+#2 [internal function]: PHPSocketIO\Engine\Socket->onUpgradePacket(Array)
+#3 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Event/Emitter.php(91): call_user_func_array(Array, Array)
+#4 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Transport.php(56): PHPSocketIO\Event\Emitter->emit('packet', Array)
+#5 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Transport.php(61): PHPSocketIO\Engine\Transport->onPacket(Array)
+#6 [internal function]: PHPSocketIO\Engine\Transport->onData('5')
+#7 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Transports/WebSocket.php(26): call_user_func(Array, '5')
+#8 [internal function]: PHPSocketIO\Engine\Transports\WebSocket->onData2(Object(Workerman\Connection\TcpConnection), '5')
+#9 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Connection/TcpConnection.php(657): call_user_func(Array, Object(Workerman\Connection\TcpConnection), '5')
+#10 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #641)
+#11 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#12 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(2096): Workerman\Events\Select->loop()
+#13 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(1294): Workerman\Worker->run()
+#14 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(1127): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#15 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(1100): Workerman\Worker::forkWorkersForLinux()
+#16 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(459): Workerman\Worker::forkWorkers()
+#17 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/start.php(24): Workerman\Worker::runAll()
+#18 {main}
+2021-08-14 14:40:53 pid:22979 Worker process terminated
+2021-08-14 14:40:53 pid:22978 worker[PHPSocketIO:22979] exit with status 64000
+2021-08-16 23:08:02 pid:11305 Error: Call to a member function send() on null in /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Transports/WebSocket.php:39
+Stack trace:
+#0 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Socket.php(318): PHPSocketIO\Engine\Transports\WebSocket->send(Array)
+#1 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Socket.php(79): PHPSocketIO\Engine\Socket->flush()
+#2 [internal function]: PHPSocketIO\Engine\Socket->onUpgradePacket(Array)
+#3 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Event/Emitter.php(91): call_user_func_array(Array, Array)
+#4 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Transport.php(56): PHPSocketIO\Event\Emitter->emit('packet', Array)
+#5 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Transport.php(61): PHPSocketIO\Engine\Transport->onPacket(Array)
+#6 [internal function]: PHPSocketIO\Engine\Transport->onData('5')
+#7 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Transports/WebSocket.php(26): call_user_func(Array, '5')
+#8 [internal function]: PHPSocketIO\Engine\Transports\WebSocket->onData2(Object(Workerman\Connection\TcpConnection), '5')
+#9 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Connection/TcpConnection.php(657): call_user_func(Array, Object(Workerman\Connection\TcpConnection), '5')
+#10 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #280878)
+#11 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#12 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(2096): Workerman\Events\Select->loop()
+#13 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(1294): Workerman\Worker->run()
+#14 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(1127): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#15 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(1100): Workerman\Worker::forkWorkersForLinux()
+#16 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(1426): Workerman\Worker::forkWorkers()
+#17 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(1375): Workerman\Worker::monitorWorkersForLinux()
+#18 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(461): Workerman\Worker::monitorWorkers()
+#19 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/start.php(24): Workerman\Worker::runAll()
+#20 {main}
+2021-08-16 23:08:02 pid:11305 Worker process terminated
+2021-08-16 23:08:02 pid:22978 worker[PHPSocketIO:11305] exit with status 64000
+2021-08-17 02:12:04 pid:9291 Workerman[public/vendor/webmsgsender/start.php] stop 
+2021-08-17 02:12:04 pid:9291 Workerman[public/vendor/webmsgsender/start.php] is stoping ...
+2021-08-17 02:12:04 pid:22978 Workerman[start.php] stopping ...
+2021-08-17 02:12:04 pid:22978 Workerman[start.php] has been stopped
+2021-08-17 02:12:04 pid:9291 Workerman[public/vendor/webmsgsender/start.php] stop success
+2021-08-17 02:12:22 pid:9321 Workerman[public/vendor/webmsgsender/start.php] start in DAEMON mode
+2021-08-17 21:26:26 pid:9324 Error: Call to a member function send() on null in /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Transports/WebSocket.php:39
+Stack trace:
+#0 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Socket.php(318): PHPSocketIO\Engine\Transports\WebSocket->send(Array)
+#1 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Socket.php(79): PHPSocketIO\Engine\Socket->flush()
+#2 [internal function]: PHPSocketIO\Engine\Socket->onUpgradePacket(Array)
+#3 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Event/Emitter.php(91): call_user_func_array(Array, Array)
+#4 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Transport.php(56): PHPSocketIO\Event\Emitter->emit('packet', Array)
+#5 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Transport.php(61): PHPSocketIO\Engine\Transport->onPacket(Array)
+#6 [internal function]: PHPSocketIO\Engine\Transport->onData('5')
+#7 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Transports/WebSocket.php(26): call_user_func(Array, '5')
+#8 [internal function]: PHPSocketIO\Engine\Transports\WebSocket->onData2(Object(Workerman\Connection\TcpConnection), '5')
+#9 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Connection/TcpConnection.php(657): call_user_func(Array, Object(Workerman\Connection\TcpConnection), '5')
+#10 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #3900)
+#11 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#12 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(2096): Workerman\Events\Select->loop()
+#13 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(1294): Workerman\Worker->run()
+#14 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(1127): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#15 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(1100): Workerman\Worker::forkWorkersForLinux()
+#16 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(459): Workerman\Worker::forkWorkers()
+#17 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/start.php(24): Workerman\Worker::runAll()
+#18 {main}
+2021-08-17 21:26:26 pid:9324 Worker process terminated
+2021-08-17 21:26:26 pid:9323 worker[PHPSocketIO:9324] exit with status 64000
+2021-08-18 00:00:02 pid:7699 Workerman[public/vendor/webmsgsender/start.php] stop 
+2021-08-18 00:00:02 pid:7699 Workerman[public/vendor/webmsgsender/start.php] is stoping ...
+2021-08-18 00:00:02 pid:9323 Workerman[start.php] stopping ...
+2021-08-18 00:00:02 pid:9323 Workerman[start.php] has been stopped
+2021-08-18 00:00:02 pid:7699 Workerman[public/vendor/webmsgsender/start.php] stop success
+2021-08-18 00:01:01 pid:7788 Workerman[public/vendor/webmsgsender/start.php] start in DAEMON mode
+2021-08-18 06:59:35 pid:7806 Error: Call to a member function send() on null in /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Transports/WebSocket.php:39
+Stack trace:
+#0 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Socket.php(318): PHPSocketIO\Engine\Transports\WebSocket->send(Array)
+#1 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Socket.php(79): PHPSocketIO\Engine\Socket->flush()
+#2 [internal function]: PHPSocketIO\Engine\Socket->onUpgradePacket(Array)
+#3 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Event/Emitter.php(91): call_user_func_array(Array, Array)
+#4 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Transport.php(56): PHPSocketIO\Event\Emitter->emit('packet', Array)
+#5 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Transport.php(61): PHPSocketIO\Engine\Transport->onPacket(Array)
+#6 [internal function]: PHPSocketIO\Engine\Transport->onData('5')
+#7 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Transports/WebSocket.php(26): call_user_func(Array, '5')
+#8 [internal function]: PHPSocketIO\Engine\Transports\WebSocket->onData2(Object(Workerman\Connection\TcpConnection), '5')
+#9 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Connection/TcpConnection.php(657): call_user_func(Array, Object(Workerman\Connection\TcpConnection), '5')
+#10 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #862)
+#11 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#12 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(2096): Workerman\Events\Select->loop()
+#13 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(1294): Workerman\Worker->run()
+#14 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(1127): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#15 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(1100): Workerman\Worker::forkWorkersForLinux()
+#16 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(459): Workerman\Worker::forkWorkers()
+#17 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/start.php(24): Workerman\Worker::runAll()
+#18 {main}
+2021-08-18 06:59:35 pid:7806 Worker process terminated
+2021-08-18 06:59:35 pid:7805 worker[PHPSocketIO:7806] exit with status 64000
+2021-08-18 22:12:51 pid:5817 Error: Call to a member function send() on null in /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Transports/WebSocket.php:39
+Stack trace:
+#0 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Socket.php(318): PHPSocketIO\Engine\Transports\WebSocket->send(Array)
+#1 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Socket.php(79): PHPSocketIO\Engine\Socket->flush()
+#2 [internal function]: PHPSocketIO\Engine\Socket->onUpgradePacket(Array)
+#3 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Event/Emitter.php(91): call_user_func_array(Array, Array)
+#4 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Transport.php(56): PHPSocketIO\Event\Emitter->emit('packet', Array)
+#5 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Transport.php(61): PHPSocketIO\Engine\Transport->onPacket(Array)
+#6 [internal function]: PHPSocketIO\Engine\Transport->onData('5')
+#7 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Transports/WebSocket.php(26): call_user_func(Array, '5')
+#8 [internal function]: PHPSocketIO\Engine\Transports\WebSocket->onData2(Object(Workerman\Connection\TcpConnection), '5')
+#9 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Connection/TcpConnection.php(657): call_user_func(Array, Object(Workerman\Connection\TcpConnection), '5')
+#10 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #7193)
+#11 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#12 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(2096): Workerman\Events\Select->loop()
+#13 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(1294): Workerman\Worker->run()
+#14 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(1127): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#15 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(1100): Workerman\Worker::forkWorkersForLinux()
+#16 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(1426): Workerman\Worker::forkWorkers()
+#17 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(1375): Workerman\Worker::monitorWorkersForLinux()
+#18 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(461): Workerman\Worker::monitorWorkers()
+#19 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/start.php(24): Workerman\Worker::runAll()
+#20 {main}
+2021-08-18 22:12:51 pid:5817 Worker process terminated
+2021-08-18 22:12:51 pid:7805 worker[PHPSocketIO:5817] exit with status 64000
+2021-08-19 00:00:02 pid:15259 Workerman[public/vendor/webmsgsender/start.php] stop 
+2021-08-19 00:00:02 pid:15259 Workerman[public/vendor/webmsgsender/start.php] is stoping ...
+2021-08-19 00:00:02 pid:7805 Workerman[start.php] stopping ...
+2021-08-19 00:00:02 pid:7805 Workerman[start.php] has been stopped
+2021-08-19 00:00:02 pid:15259 Workerman[public/vendor/webmsgsender/start.php] stop success
+2021-08-19 00:01:01 pid:15349 Workerman[public/vendor/webmsgsender/start.php] start in DAEMON mode
+2021-08-19 22:47:56 pid:15358 Error: Call to a member function send() on null in /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Transports/WebSocket.php:39
+Stack trace:
+#0 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Socket.php(318): PHPSocketIO\Engine\Transports\WebSocket->send(Array)
+#1 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Socket.php(79): PHPSocketIO\Engine\Socket->flush()
+#2 [internal function]: PHPSocketIO\Engine\Socket->onUpgradePacket(Array)
+#3 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Event/Emitter.php(91): call_user_func_array(Array, Array)
+#4 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Transport.php(56): PHPSocketIO\Event\Emitter->emit('packet', Array)
+#5 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Transport.php(61): PHPSocketIO\Engine\Transport->onPacket(Array)
+#6 [internal function]: PHPSocketIO\Engine\Transport->onData('5')
+#7 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Transports/WebSocket.php(26): call_user_func(Array, '5')
+#8 [internal function]: PHPSocketIO\Engine\Transports\WebSocket->onData2(Object(Workerman\Connection\TcpConnection), '5')
+#9 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Connection/TcpConnection.php(657): call_user_func(Array, Object(Workerman\Connection\TcpConnection), '5')
+#10 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #12808)
+#11 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#12 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(2096): Workerman\Events\Select->loop()
+#13 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(1294): Workerman\Worker->run()
+#14 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(1127): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#15 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(1100): Workerman\Worker::forkWorkersForLinux()
+#16 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(459): Workerman\Worker::forkWorkers()
+#17 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/start.php(24): Workerman\Worker::runAll()
+#18 {main}
+2021-08-19 22:47:56 pid:15358 Worker process terminated
+2021-08-19 22:47:56 pid:15357 worker[PHPSocketIO:15358] exit with status 64000
+2021-08-20 00:00:02 pid:22463 Workerman[public/vendor/webmsgsender/start.php] stop 
+2021-08-20 00:00:02 pid:22463 Workerman[public/vendor/webmsgsender/start.php] is stoping ...
+2021-08-20 00:00:02 pid:15357 Workerman[start.php] stopping ...
+2021-08-20 00:00:02 pid:15357 Workerman[start.php] has been stopped
+2021-08-20 00:00:02 pid:22463 Workerman[public/vendor/webmsgsender/start.php] stop success
+2021-08-20 00:01:02 pid:22558 Workerman[public/vendor/webmsgsender/start.php] start in DAEMON mode
+2021-08-20 16:24:37 pid:22571 Error: Call to a member function send() on null in /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Transports/WebSocket.php:39
+Stack trace:
+#0 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Socket.php(318): PHPSocketIO\Engine\Transports\WebSocket->send(Array)
+#1 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Socket.php(79): PHPSocketIO\Engine\Socket->flush()
+#2 [internal function]: PHPSocketIO\Engine\Socket->onUpgradePacket(Array)
+#3 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Event/Emitter.php(91): call_user_func_array(Array, Array)
+#4 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Transport.php(56): PHPSocketIO\Event\Emitter->emit('packet', Array)
+#5 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Transport.php(61): PHPSocketIO\Engine\Transport->onPacket(Array)
+#6 [internal function]: PHPSocketIO\Engine\Transport->onData('5')
+#7 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Transports/WebSocket.php(26): call_user_func(Array, '5')
+#8 [internal function]: PHPSocketIO\Engine\Transports\WebSocket->onData2(Object(Workerman\Connection\TcpConnection), '5')
+#9 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Connection/TcpConnection.php(657): call_user_func(Array, Object(Workerman\Connection\TcpConnection), '5')
+#10 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #3881)
+#11 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#12 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(2096): Workerman\Events\Select->loop()
+#13 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(1294): Workerman\Worker->run()
+#14 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(1127): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#15 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(1100): Workerman\Worker::forkWorkersForLinux()
+#16 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(459): Workerman\Worker::forkWorkers()
+#17 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/start.php(24): Workerman\Worker::runAll()
+#18 {main}
+2021-08-20 16:24:37 pid:22571 Worker process terminated
+2021-08-20 16:24:37 pid:22570 worker[PHPSocketIO:22571] exit with status 64000
+2021-08-20 21:38:29 pid:29388 Error: Call to a member function send() on null in /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Transports/WebSocket.php:39
+Stack trace:
+#0 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Socket.php(318): PHPSocketIO\Engine\Transports\WebSocket->send(Array)
+#1 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Socket.php(79): PHPSocketIO\Engine\Socket->flush()
+#2 [internal function]: PHPSocketIO\Engine\Socket->onUpgradePacket(Array)
+#3 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Event/Emitter.php(91): call_user_func_array(Array, Array)
+#4 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Transport.php(56): PHPSocketIO\Event\Emitter->emit('packet', Array)
+#5 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Transport.php(61): PHPSocketIO\Engine\Transport->onPacket(Array)
+#6 [internal function]: PHPSocketIO\Engine\Transport->onData('5')
+#7 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Transports/WebSocket.php(26): call_user_func(Array, '5')
+#8 [internal function]: PHPSocketIO\Engine\Transports\WebSocket->onData2(Object(Workerman\Connection\TcpConnection), '5')
+#9 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Connection/TcpConnection.php(657): call_user_func(Array, Object(Workerman\Connection\TcpConnection), '5')
+#10 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #5423)
+#11 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#12 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(2096): Workerman\Events\Select->loop()
+#13 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(1294): Workerman\Worker->run()
+#14 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(1127): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#15 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(1100): Workerman\Worker::forkWorkersForLinux()
+#16 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(1426): Workerman\Worker::forkWorkers()
+#17 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(1375): Workerman\Worker::monitorWorkersForLinux()
+#18 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(461): Workerman\Worker::monitorWorkers()
+#19 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/start.php(24): Workerman\Worker::runAll()
+#20 {main}
+2021-08-20 21:38:29 pid:29388 Worker process terminated
+2021-08-20 21:38:29 pid:22570 worker[PHPSocketIO:29388] exit with status 64000
+2021-08-21 00:00:02 pid:30164 Workerman[public/vendor/webmsgsender/start.php] stop 
+2021-08-21 00:00:02 pid:30164 Workerman[public/vendor/webmsgsender/start.php] is stoping ...
+2021-08-21 00:00:02 pid:22570 Workerman[start.php] stopping ...
+2021-08-21 00:00:02 pid:22570 Workerman[start.php] has been stopped
+2021-08-21 00:00:02 pid:30164 Workerman[public/vendor/webmsgsender/start.php] stop success
+2021-08-21 00:01:01 pid:30237 Workerman[public/vendor/webmsgsender/start.php] start in DAEMON mode
+2021-08-21 15:05:15 pid:30250 Error: Call to a member function send() on null in /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Transports/WebSocket.php:39
+Stack trace:
+#0 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Socket.php(318): PHPSocketIO\Engine\Transports\WebSocket->send(Array)
+#1 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Socket.php(79): PHPSocketIO\Engine\Socket->flush()
+#2 [internal function]: PHPSocketIO\Engine\Socket->onUpgradePacket(Array)
+#3 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Event/Emitter.php(91): call_user_func_array(Array, Array)
+#4 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Transport.php(56): PHPSocketIO\Event\Emitter->emit('packet', Array)
+#5 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Transport.php(61): PHPSocketIO\Engine\Transport->onPacket(Array)
+#6 [internal function]: PHPSocketIO\Engine\Transport->onData('5')
+#7 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Transports/WebSocket.php(26): call_user_func(Array, '5')
+#8 [internal function]: PHPSocketIO\Engine\Transports\WebSocket->onData2(Object(Workerman\Connection\TcpConnection), '5')
+#9 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Connection/TcpConnection.php(657): call_user_func(Array, Object(Workerman\Connection\TcpConnection), '5')
+#10 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #6965)
+#11 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#12 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(2096): Workerman\Events\Select->loop()
+#13 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(1294): Workerman\Worker->run()
+#14 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(1127): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#15 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(1100): Workerman\Worker::forkWorkersForLinux()
+#16 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(459): Workerman\Worker::forkWorkers()
+#17 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/start.php(24): Workerman\Worker::runAll()
+#18 {main}
+2021-08-21 15:05:15 pid:30250 Worker process terminated
+2021-08-21 15:05:15 pid:30249 worker[PHPSocketIO:30250] exit with status 64000
+2021-08-21 20:07:58 pid:30749 Error: Call to a member function send() on null in /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Transports/WebSocket.php:39
+Stack trace:
+#0 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Socket.php(318): PHPSocketIO\Engine\Transports\WebSocket->send(Array)
+#1 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Socket.php(79): PHPSocketIO\Engine\Socket->flush()
+#2 [internal function]: PHPSocketIO\Engine\Socket->onUpgradePacket(Array)
+#3 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Event/Emitter.php(91): call_user_func_array(Array, Array)
+#4 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Transport.php(56): PHPSocketIO\Event\Emitter->emit('packet', Array)
+#5 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Transport.php(61): PHPSocketIO\Engine\Transport->onPacket(Array)
+#6 [internal function]: PHPSocketIO\Engine\Transport->onData('5')
+#7 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Transports/WebSocket.php(26): call_user_func(Array, '5')
+#8 [internal function]: PHPSocketIO\Engine\Transports\WebSocket->onData2(Object(Workerman\Connection\TcpConnection), '5')
+#9 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Connection/TcpConnection.php(657): call_user_func(Array, Object(Workerman\Connection\TcpConnection), '5')
+#10 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #4482)
+#11 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#12 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(2096): Workerman\Events\Select->loop()
+#13 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(1294): Workerman\Worker->run()
+#14 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(1127): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#15 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(1100): Workerman\Worker::forkWorkersForLinux()
+#16 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(1426): Workerman\Worker::forkWorkers()
+#17 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(1375): Workerman\Worker::monitorWorkersForLinux()
+#18 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(461): Workerman\Worker::monitorWorkers()
+#19 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/start.php(24): Workerman\Worker::runAll()
+#20 {main}
+2021-08-21 20:07:58 pid:30749 Worker process terminated
+2021-08-21 20:07:58 pid:30249 worker[PHPSocketIO:30749] exit with status 64000
+2021-08-21 22:10:14 pid:20192 Error: Call to a member function send() on null in /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Transports/WebSocket.php:39
+Stack trace:
+#0 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Socket.php(318): PHPSocketIO\Engine\Transports\WebSocket->send(Array)
+#1 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Socket.php(79): PHPSocketIO\Engine\Socket->flush()
+#2 [internal function]: PHPSocketIO\Engine\Socket->onUpgradePacket(Array)
+#3 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Event/Emitter.php(91): call_user_func_array(Array, Array)
+#4 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Transport.php(56): PHPSocketIO\Event\Emitter->emit('packet', Array)
+#5 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Transport.php(61): PHPSocketIO\Engine\Transport->onPacket(Array)
+#6 [internal function]: PHPSocketIO\Engine\Transport->onData('5')
+#7 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Transports/WebSocket.php(26): call_user_func(Array, '5')
+#8 [internal function]: PHPSocketIO\Engine\Transports\WebSocket->onData2(Object(Workerman\Connection\TcpConnection), '5')
+#9 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Connection/TcpConnection.php(657): call_user_func(Array, Object(Workerman\Connection\TcpConnection), '5')
+#10 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #3554)
+#11 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#12 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(2096): Workerman\Events\Select->loop()
+#13 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(1294): Workerman\Worker->run()
+#14 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(1127): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#15 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(1100): Workerman\Worker::forkWorkersForLinux()
+#16 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(1426): Workerman\Worker::forkWorkers()
+#17 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(1375): Workerman\Worker::monitorWorkersForLinux()
+#18 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(461): Workerman\Worker::monitorWorkers()
+#19 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/start.php(24): Workerman\Worker::runAll()
+#20 {main}
+2021-08-21 22:10:14 pid:20192 Worker process terminated
+2021-08-21 22:10:14 pid:30249 worker[PHPSocketIO:20192] exit with status 64000
+2021-08-22 00:00:01 pid:4598 Workerman[public/vendor/webmsgsender/start.php] stop 
+2021-08-22 00:00:01 pid:4598 Workerman[public/vendor/webmsgsender/start.php] is stoping ...
+2021-08-22 00:00:01 pid:30249 Workerman[start.php] stopping ...
+2021-08-22 00:00:01 pid:30249 Workerman[start.php] has been stopped
+2021-08-22 00:00:01 pid:4598 Workerman[public/vendor/webmsgsender/start.php] stop success
+2021-08-22 00:01:01 pid:4688 Workerman[public/vendor/webmsgsender/start.php] start in DAEMON mode
+2021-08-23 00:00:01 pid:11435 Workerman[public/vendor/webmsgsender/start.php] stop 
+2021-08-23 00:00:01 pid:11435 Workerman[public/vendor/webmsgsender/start.php] is stoping ...
+2021-08-23 00:00:01 pid:4700 Workerman[start.php] stopping ...
+2021-08-23 00:00:01 pid:4700 Workerman[start.php] has been stopped
+2021-08-23 00:00:01 pid:11435 Workerman[public/vendor/webmsgsender/start.php] stop success
+2021-08-23 00:01:01 pid:11507 Workerman[public/vendor/webmsgsender/start.php] start in DAEMON mode
+2021-08-24 00:00:01 pid:19090 Workerman[public/vendor/webmsgsender/start.php] stop 
+2021-08-24 00:00:01 pid:19090 Workerman[public/vendor/webmsgsender/start.php] is stoping ...
+2021-08-24 00:00:01 pid:11522 Workerman[start.php] stopping ...
+2021-08-24 00:00:01 pid:11522 Workerman[start.php] has been stopped
+2021-08-24 00:00:01 pid:19090 Workerman[public/vendor/webmsgsender/start.php] stop success
+2021-08-24 00:01:01 pid:19164 Workerman[public/vendor/webmsgsender/start.php] start in DAEMON mode
+2021-08-24 01:24:53 pid:19179 Error: Call to a member function send() on null in /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Transports/WebSocket.php:39
+Stack trace:
+#0 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Socket.php(318): PHPSocketIO\Engine\Transports\WebSocket->send(Array)
+#1 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Socket.php(79): PHPSocketIO\Engine\Socket->flush()
+#2 [internal function]: PHPSocketIO\Engine\Socket->onUpgradePacket(Array)
+#3 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Event/Emitter.php(91): call_user_func_array(Array, Array)
+#4 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Transport.php(56): PHPSocketIO\Event\Emitter->emit('packet', Array)
+#5 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Transport.php(61): PHPSocketIO\Engine\Transport->onPacket(Array)
+#6 [internal function]: PHPSocketIO\Engine\Transport->onData('5')
+#7 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Transports/WebSocket.php(26): call_user_func(Array, '5')
+#8 [internal function]: PHPSocketIO\Engine\Transports\WebSocket->onData2(Object(Workerman\Connection\TcpConnection), '5')
+#9 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Connection/TcpConnection.php(657): call_user_func(Array, Object(Workerman\Connection\TcpConnection), '5')
+#10 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #982)
+#11 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#12 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(2096): Workerman\Events\Select->loop()
+#13 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(1294): Workerman\Worker->run()
+#14 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(1127): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#15 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(1100): Workerman\Worker::forkWorkersForLinux()
+#16 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(459): Workerman\Worker::forkWorkers()
+#17 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/start.php(24): Workerman\Worker::runAll()
+#18 {main}
+2021-08-24 01:24:53 pid:19179 Worker process terminated
+2021-08-24 01:24:53 pid:19178 worker[PHPSocketIO:19179] exit with status 64000
+2021-08-24 20:55:49 pid:25230 Error: Call to a member function send() on null in /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Transports/WebSocket.php:39
+Stack trace:
+#0 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Socket.php(318): PHPSocketIO\Engine\Transports\WebSocket->send(Array)
+#1 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Socket.php(79): PHPSocketIO\Engine\Socket->flush()
+#2 [internal function]: PHPSocketIO\Engine\Socket->onUpgradePacket(Array)
+#3 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Event/Emitter.php(91): call_user_func_array(Array, Array)
+#4 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Transport.php(56): PHPSocketIO\Event\Emitter->emit('packet', Array)
+#5 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Transport.php(61): PHPSocketIO\Engine\Transport->onPacket(Array)
+#6 [internal function]: PHPSocketIO\Engine\Transport->onData('5')
+#7 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Transports/WebSocket.php(26): call_user_func(Array, '5')
+#8 [internal function]: PHPSocketIO\Engine\Transports\WebSocket->onData2(Object(Workerman\Connection\TcpConnection), '5')
+#9 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Connection/TcpConnection.php(657): call_user_func(Array, Object(Workerman\Connection\TcpConnection), '5')
+#10 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #9526)
+#11 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#12 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(2096): Workerman\Events\Select->loop()
+#13 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(1294): Workerman\Worker->run()
+#14 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(1127): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#15 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(1100): Workerman\Worker::forkWorkersForLinux()
+#16 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(1426): Workerman\Worker::forkWorkers()
+#17 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(1375): Workerman\Worker::monitorWorkersForLinux()
+#18 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(461): Workerman\Worker::monitorWorkers()
+#19 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/start.php(24): Workerman\Worker::runAll()
+#20 {main}
+2021-08-24 20:55:49 pid:25230 Worker process terminated
+2021-08-24 20:55:49 pid:19178 worker[PHPSocketIO:25230] exit with status 64000
+2021-08-24 22:45:23 pid:13035 Error: Call to a member function send() on null in /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Transports/WebSocket.php:39
+Stack trace:
+#0 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Socket.php(318): PHPSocketIO\Engine\Transports\WebSocket->send(Array)
+#1 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Socket.php(79): PHPSocketIO\Engine\Socket->flush()
+#2 [internal function]: PHPSocketIO\Engine\Socket->onUpgradePacket(Array)
+#3 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Event/Emitter.php(91): call_user_func_array(Array, Array)
+#4 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Transport.php(56): PHPSocketIO\Event\Emitter->emit('packet', Array)
+#5 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Transport.php(61): PHPSocketIO\Engine\Transport->onPacket(Array)
+#6 [internal function]: PHPSocketIO\Engine\Transport->onData('5')
+#7 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Transports/WebSocket.php(26): call_user_func(Array, '5')
+#8 [internal function]: PHPSocketIO\Engine\Transports\WebSocket->onData2(Object(Workerman\Connection\TcpConnection), '5')
+#9 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Connection/TcpConnection.php(657): call_user_func(Array, Object(Workerman\Connection\TcpConnection), '5')
+#10 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #4546)
+#11 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#12 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(2096): Workerman\Events\Select->loop()
+#13 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(1294): Workerman\Worker->run()
+#14 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(1127): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#15 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(1100): Workerman\Worker::forkWorkersForLinux()
+#16 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(1426): Workerman\Worker::forkWorkers()
+#17 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(1375): Workerman\Worker::monitorWorkersForLinux()
+#18 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(461): Workerman\Worker::monitorWorkers()
+#19 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/start.php(24): Workerman\Worker::runAll()
+#20 {main}
+2021-08-24 22:45:23 pid:13035 Worker process terminated
+2021-08-24 22:45:23 pid:19178 worker[PHPSocketIO:13035] exit with status 64000
+2021-08-25 00:00:02 pid:26405 Workerman[public/vendor/webmsgsender/start.php] stop 
+2021-08-25 00:00:02 pid:26405 Workerman[public/vendor/webmsgsender/start.php] is stoping ...
+2021-08-25 00:00:02 pid:19178 Workerman[start.php] stopping ...
+2021-08-25 00:00:02 pid:19178 Workerman[start.php] has been stopped
+2021-08-25 00:00:02 pid:26405 Workerman[public/vendor/webmsgsender/start.php] stop success
+2021-08-25 00:01:01 pid:26478 Workerman[public/vendor/webmsgsender/start.php] start in DAEMON mode
+2021-08-25 14:11:52 pid:26493 Error: Call to a member function send() on null in /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Transports/WebSocket.php:39
+Stack trace:
+#0 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Socket.php(318): PHPSocketIO\Engine\Transports\WebSocket->send(Array)
+#1 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Socket.php(79): PHPSocketIO\Engine\Socket->flush()
+#2 [internal function]: PHPSocketIO\Engine\Socket->onUpgradePacket(Array)
+#3 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Event/Emitter.php(91): call_user_func_array(Array, Array)
+#4 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Transport.php(56): PHPSocketIO\Event\Emitter->emit('packet', Array)
+#5 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Transport.php(61): PHPSocketIO\Engine\Transport->onPacket(Array)
+#6 [internal function]: PHPSocketIO\Engine\Transport->onData('5')
+#7 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Transports/WebSocket.php(26): call_user_func(Array, '5')
+#8 [internal function]: PHPSocketIO\Engine\Transports\WebSocket->onData2(Object(Workerman\Connection\TcpConnection), '5')
+#9 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Connection/TcpConnection.php(657): call_user_func(Array, Object(Workerman\Connection\TcpConnection), '5')
+#10 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #7200)
+#11 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#12 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(2096): Workerman\Events\Select->loop()
+#13 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(1294): Workerman\Worker->run()
+#14 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(1127): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#15 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(1100): Workerman\Worker::forkWorkersForLinux()
+#16 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(459): Workerman\Worker::forkWorkers()
+#17 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/start.php(24): Workerman\Worker::runAll()
+#18 {main}
+2021-08-25 14:11:52 pid:26493 Worker process terminated
+2021-08-25 14:11:52 pid:26492 worker[PHPSocketIO:26493] exit with status 64000
+2021-08-26 00:00:01 pid:1320 Workerman[public/vendor/webmsgsender/start.php] stop 
+2021-08-26 00:00:01 pid:1320 Workerman[public/vendor/webmsgsender/start.php] is stoping ...
+2021-08-26 00:00:01 pid:26492 Workerman[start.php] stopping ...
+2021-08-26 00:00:01 pid:26492 Workerman[start.php] has been stopped
+2021-08-26 00:00:01 pid:1320 Workerman[public/vendor/webmsgsender/start.php] stop success
+2021-08-26 00:01:01 pid:1413 Workerman[public/vendor/webmsgsender/start.php] start in DAEMON mode
+2021-08-26 09:36:29 pid:1438 Error: Call to a member function send() on null in /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Transports/WebSocket.php:39
+Stack trace:
+#0 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Socket.php(318): PHPSocketIO\Engine\Transports\WebSocket->send(Array)
+#1 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Socket.php(79): PHPSocketIO\Engine\Socket->flush()
+#2 [internal function]: PHPSocketIO\Engine\Socket->onUpgradePacket(Array)
+#3 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Event/Emitter.php(91): call_user_func_array(Array, Array)
+#4 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Transport.php(56): PHPSocketIO\Event\Emitter->emit('packet', Array)
+#5 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Transport.php(61): PHPSocketIO\Engine\Transport->onPacket(Array)
+#6 [internal function]: PHPSocketIO\Engine\Transport->onData('5')
+#7 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Transports/WebSocket.php(26): call_user_func(Array, '5')
+#8 [internal function]: PHPSocketIO\Engine\Transports\WebSocket->onData2(Object(Workerman\Connection\TcpConnection), '5')
+#9 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Connection/TcpConnection.php(657): call_user_func(Array, Object(Workerman\Connection\TcpConnection), '5')
+#10 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #3757)
+#11 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#12 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(2096): Workerman\Events\Select->loop()
+#13 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(1294): Workerman\Worker->run()
+#14 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(1127): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#15 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(1100): Workerman\Worker::forkWorkersForLinux()
+#16 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(459): Workerman\Worker::forkWorkers()
+#17 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/start.php(24): Workerman\Worker::runAll()
+#18 {main}
+2021-08-26 09:36:29 pid:1438 Worker process terminated
+2021-08-26 09:36:29 pid:1437 worker[PHPSocketIO:1438] exit with status 64000
+2021-08-27 00:00:02 pid:8460 Workerman[public/vendor/webmsgsender/start.php] stop 
+2021-08-27 00:00:02 pid:8460 Workerman[public/vendor/webmsgsender/start.php] is stoping ...
+2021-08-27 00:00:02 pid:1437 Workerman[start.php] stopping ...
+2021-08-27 00:00:02 pid:1437 Workerman[start.php] has been stopped
+2021-08-27 00:00:02 pid:8460 Workerman[public/vendor/webmsgsender/start.php] stop success
+2021-08-27 00:01:01 pid:8549 Workerman[public/vendor/webmsgsender/start.php] start in DAEMON mode
+2021-08-27 04:51:56 pid:8565 Error: Call to a member function send() on null in /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Transports/WebSocket.php:39
+Stack trace:
+#0 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Socket.php(318): PHPSocketIO\Engine\Transports\WebSocket->send(Array)
+#1 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Socket.php(79): PHPSocketIO\Engine\Socket->flush()
+#2 [internal function]: PHPSocketIO\Engine\Socket->onUpgradePacket(Array)
+#3 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Event/Emitter.php(91): call_user_func_array(Array, Array)
+#4 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Transport.php(56): PHPSocketIO\Event\Emitter->emit('packet', Array)
+#5 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Transport.php(61): PHPSocketIO\Engine\Transport->onPacket(Array)
+#6 [internal function]: PHPSocketIO\Engine\Transport->onData('5')
+#7 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Transports/WebSocket.php(26): call_user_func(Array, '5')
+#8 [internal function]: PHPSocketIO\Engine\Transports\WebSocket->onData2(Object(Workerman\Connection\TcpConnection), '5')
+#9 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Connection/TcpConnection.php(657): call_user_func(Array, Object(Workerman\Connection\TcpConnection), '5')
+#10 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #3388)
+#11 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#12 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(2096): Workerman\Events\Select->loop()
+#13 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(1294): Workerman\Worker->run()
+#14 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(1127): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#15 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(1100): Workerman\Worker::forkWorkersForLinux()
+#16 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(459): Workerman\Worker::forkWorkers()
+#17 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/start.php(24): Workerman\Worker::runAll()
+#18 {main}
+2021-08-27 04:51:56 pid:8565 Worker process terminated
+2021-08-27 04:51:56 pid:8564 worker[PHPSocketIO:8565] exit with status 64000
+2021-08-27 13:27:20 pid:29618 Error: Call to a member function send() on null in /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Transports/WebSocket.php:39
+Stack trace:
+#0 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Socket.php(318): PHPSocketIO\Engine\Transports\WebSocket->send(Array)
+#1 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Socket.php(79): PHPSocketIO\Engine\Socket->flush()
+#2 [internal function]: PHPSocketIO\Engine\Socket->onUpgradePacket(Array)
+#3 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Event/Emitter.php(91): call_user_func_array(Array, Array)
+#4 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Transport.php(56): PHPSocketIO\Event\Emitter->emit('packet', Array)
+#5 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Transport.php(61): PHPSocketIO\Engine\Transport->onPacket(Array)
+#6 [internal function]: PHPSocketIO\Engine\Transport->onData('5')
+#7 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Transports/WebSocket.php(26): call_user_func(Array, '5')
+#8 [internal function]: PHPSocketIO\Engine\Transports\WebSocket->onData2(Object(Workerman\Connection\TcpConnection), '5')
+#9 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Connection/TcpConnection.php(657): call_user_func(Array, Object(Workerman\Connection\TcpConnection), '5')
+#10 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #8018)
+#11 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#12 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(2096): Workerman\Events\Select->loop()
+#13 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(1294): Workerman\Worker->run()
+#14 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(1127): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#15 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(1100): Workerman\Worker::forkWorkersForLinux()
+#16 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(1426): Workerman\Worker::forkWorkers()
+#17 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(1375): Workerman\Worker::monitorWorkersForLinux()
+#18 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(461): Workerman\Worker::monitorWorkers()
+#19 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/start.php(24): Workerman\Worker::runAll()
+#20 {main}
+2021-08-27 13:27:20 pid:29618 Worker process terminated
+2021-08-27 13:27:20 pid:8564 worker[PHPSocketIO:29618] exit with status 64000
+2021-08-28 00:00:02 pid:15992 Workerman[public/vendor/webmsgsender/start.php] stop 
+2021-08-28 00:00:02 pid:15992 Workerman[public/vendor/webmsgsender/start.php] is stoping ...
+2021-08-28 00:00:02 pid:8564 Workerman[start.php] stopping ...
+2021-08-28 00:00:02 pid:8564 Workerman[start.php] has been stopped
+2021-08-28 00:00:02 pid:15992 Workerman[public/vendor/webmsgsender/start.php] stop success
+2021-08-28 00:01:01 pid:16063 Workerman[public/vendor/webmsgsender/start.php] start in DAEMON mode
+2021-08-28 08:39:44 pid:16079 Error: Call to a member function send() on null in /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Transports/WebSocket.php:39
+Stack trace:
+#0 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Socket.php(318): PHPSocketIO\Engine\Transports\WebSocket->send(Array)
+#1 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Socket.php(79): PHPSocketIO\Engine\Socket->flush()
+#2 [internal function]: PHPSocketIO\Engine\Socket->onUpgradePacket(Array)
+#3 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Event/Emitter.php(91): call_user_func_array(Array, Array)
+#4 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Transport.php(56): PHPSocketIO\Event\Emitter->emit('packet', Array)
+#5 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Transport.php(61): PHPSocketIO\Engine\Transport->onPacket(Array)
+#6 [internal function]: PHPSocketIO\Engine\Transport->onData('5')
+#7 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Transports/WebSocket.php(26): call_user_func(Array, '5')
+#8 [internal function]: PHPSocketIO\Engine\Transports\WebSocket->onData2(Object(Workerman\Connection\TcpConnection), '5')
+#9 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Connection/TcpConnection.php(657): call_user_func(Array, Object(Workerman\Connection\TcpConnection), '5')
+#10 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #3873)
+#11 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#12 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(2096): Workerman\Events\Select->loop()
+#13 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(1294): Workerman\Worker->run()
+#14 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(1127): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#15 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(1100): Workerman\Worker::forkWorkersForLinux()
+#16 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(459): Workerman\Worker::forkWorkers()
+#17 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/start.php(24): Workerman\Worker::runAll()
+#18 {main}
+2021-08-28 08:39:44 pid:16079 Worker process terminated
+2021-08-28 08:39:44 pid:16078 worker[PHPSocketIO:16079] exit with status 64000
+2021-08-28 22:00:37 pid:21606 Error: Call to a member function send() on null in /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Transports/WebSocket.php:39
+Stack trace:
+#0 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Socket.php(318): PHPSocketIO\Engine\Transports\WebSocket->send(Array)
+#1 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Socket.php(79): PHPSocketIO\Engine\Socket->flush()
+#2 [internal function]: PHPSocketIO\Engine\Socket->onUpgradePacket(Array)
+#3 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Event/Emitter.php(91): call_user_func_array(Array, Array)
+#4 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Transport.php(56): PHPSocketIO\Event\Emitter->emit('packet', Array)
+#5 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Transport.php(61): PHPSocketIO\Engine\Transport->onPacket(Array)
+#6 [internal function]: PHPSocketIO\Engine\Transport->onData('5')
+#7 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Transports/WebSocket.php(26): call_user_func(Array, '5')
+#8 [internal function]: PHPSocketIO\Engine\Transports\WebSocket->onData2(Object(Workerman\Connection\TcpConnection), '5')
+#9 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Connection/TcpConnection.php(657): call_user_func(Array, Object(Workerman\Connection\TcpConnection), '5')
+#10 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #15220)
+#11 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#12 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(2096): Workerman\Events\Select->loop()
+#13 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(1294): Workerman\Worker->run()
+#14 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(1127): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#15 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(1100): Workerman\Worker::forkWorkersForLinux()
+#16 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(1426): Workerman\Worker::forkWorkers()
+#17 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(1375): Workerman\Worker::monitorWorkersForLinux()
+#18 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(461): Workerman\Worker::monitorWorkers()
+#19 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/start.php(24): Workerman\Worker::runAll()
+#20 {main}
+2021-08-28 22:00:37 pid:21606 Worker process terminated
+2021-08-28 22:00:37 pid:16078 worker[PHPSocketIO:21606] exit with status 64000
+2021-08-28 23:26:24 pid:15041 Error: Call to a member function send() on null in /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Transports/WebSocket.php:39
+Stack trace:
+#0 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Socket.php(318): PHPSocketIO\Engine\Transports\WebSocket->send(Array)
+#1 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Socket.php(79): PHPSocketIO\Engine\Socket->flush()
+#2 [internal function]: PHPSocketIO\Engine\Socket->onUpgradePacket(Array)
+#3 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Event/Emitter.php(91): call_user_func_array(Array, Array)
+#4 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Transport.php(56): PHPSocketIO\Event\Emitter->emit('packet', Array)
+#5 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Transport.php(61): PHPSocketIO\Engine\Transport->onPacket(Array)
+#6 [internal function]: PHPSocketIO\Engine\Transport->onData('5')
+#7 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Transports/WebSocket.php(26): call_user_func(Array, '5')
+#8 [internal function]: PHPSocketIO\Engine\Transports\WebSocket->onData2(Object(Workerman\Connection\TcpConnection), '5')
+#9 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Connection/TcpConnection.php(657): call_user_func(Array, Object(Workerman\Connection\TcpConnection), '5')
+#10 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #3579)
+#11 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#12 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(2096): Workerman\Events\Select->loop()
+#13 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(1294): Workerman\Worker->run()
+#14 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(1127): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#15 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(1100): Workerman\Worker::forkWorkersForLinux()
+#16 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(1426): Workerman\Worker::forkWorkers()
+#17 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(1375): Workerman\Worker::monitorWorkersForLinux()
+#18 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(461): Workerman\Worker::monitorWorkers()
+#19 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/start.php(24): Workerman\Worker::runAll()
+#20 {main}
+2021-08-28 23:26:24 pid:15041 Worker process terminated
+2021-08-28 23:26:24 pid:16078 worker[PHPSocketIO:15041] exit with status 64000
+2021-09-07 21:53:44 pid:86546 Workerman[public/vendor/webmsgsender/start.php] start in DEBUG mode
+2021-09-07 21:55:54 pid:86546 Workerman[start.php] stopping ...
+2021-09-07 21:55:54 pid:86546 Workerman[start.php] has been stopped
+2021-09-07 22:00:29 pid:86619 Workerman[public/vendor/webmsgsender/start.php] stop 
+2021-09-07 22:00:29 pid:86619 Workerman[public/vendor/webmsgsender/start.php] not run
+2021-09-07 22:09:38 pid:86719 Workerman[public/vendor/webmsgsender/start.php] start in DAEMON mode
+2021-09-07 22:16:38 pid:86789 Workerman[public/vendor/webmsgsender/start.php] start in DAEMON mode
+2021-09-07 22:16:38 pid:86789 Workerman[public/vendor/webmsgsender/start.php] already running
+2021-09-07 22:16:45 pid:86790 Workerman[public/vendor/webmsgsender/start.php] status 
+2021-09-07 23:11:15 pid:2268 Workerman[public/vendor/webmsgsender/start.php] start in DAEMON mode
+2021-10-02 09:49:03 pid:2328504 Workerman[public/vendor/webmsgsender/start.php] status 
+2021-10-02 09:49:33 pid:2328532 Workerman[public/vendor/webmsgsender/start.php] status 
+2021-10-02 09:49:45 pid:2328545 Workerman[public/vendor/webmsgsender/start.php] stop 
+2021-10-02 09:49:45 pid:2328545 Workerman[public/vendor/webmsgsender/start.php] is stoping ...
+2021-10-02 09:49:45 pid:2270 Workerman[start.php] stopping ...
+2021-10-02 09:49:45 pid:2270 Workerman[start.php] has been stopped
+2021-10-02 09:49:45 pid:2328545 Workerman[public/vendor/webmsgsender/start.php] stop success
+2021-10-02 09:49:52 pid:2328550 Workerman[public/vendor/webmsgsender/start.php] status 
+2021-10-02 09:49:52 pid:2328550 Workerman[public/vendor/webmsgsender/start.php] not run
+2021-10-02 09:50:18 pid:2328581 Workerman[public/vendor/webmsgsender/start.php] start in DAEMON mode
+2021-10-05 15:25:36 pid:2328586 Error: Call to a member function send() on null in /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Transports/WebSocket.php:39
+Stack trace:
+#0 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Socket.php(318): PHPSocketIO\Engine\Transports\WebSocket->send(Array)
+#1 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Socket.php(79): PHPSocketIO\Engine\Socket->flush()
+#2 [internal function]: PHPSocketIO\Engine\Socket->onUpgradePacket(Array)
+#3 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Event/Emitter.php(91): call_user_func_array(Array, Array)
+#4 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Transport.php(56): PHPSocketIO\Event\Emitter->emit('packet', Array)
+#5 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Transport.php(61): PHPSocketIO\Engine\Transport->onPacket(Array)
+#6 [internal function]: PHPSocketIO\Engine\Transport->onData('5')
+#7 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Transports/WebSocket.php(26): call_user_func(Array, '5')
+#8 [internal function]: PHPSocketIO\Engine\Transports\WebSocket->onData2(Object(Workerman\Connection\TcpConnection), '5')
+#9 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Connection/TcpConnection.php(657): call_user_func(Array, Object(Workerman\Connection\TcpConnection), '5')
+#10 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #1979)
+#11 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#12 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(2096): Workerman\Events\Select->loop()
+#13 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(1294): Workerman\Worker->run()
+#14 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(1127): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#15 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(1100): Workerman\Worker::forkWorkersForLinux()
+#16 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(459): Workerman\Worker::forkWorkers()
+#17 /www/wwwroot/deversifi.top/public/vendor/webmsgsender/start.php(24): Workerman\Worker::runAll()
+#18 {main}
+2021-10-05 15:25:36 pid:2328586 Worker process terminated
+2021-10-05 15:25:36 pid:2328585 worker[PHPSocketIO:2328586] exit with status 64000
+2021-10-06 14:22:06 pid:2625 Workerman[public/vendor/webmsgsender/start.php] start in DAEMON mode
+2021-10-30 15:56:14 pid:2374 Workerman[public/vendor/webmsgsender/start.php] start in DAEMON mode
+2021-10-31 01:16:28 pid:17475 Workerman[public/vendor/webmsgsender/start.php] start in DAEMON mode
+2021-11-01 23:48:48 pid:11269 Workerman[public/vendor/webmsgsender/start.php] stop 
+2021-11-01 23:48:48 pid:11269 Workerman[public/vendor/webmsgsender/start.php] is stoping ...
+2021-11-01 23:48:48 pid:17477 Workerman[start.php] stopping ...
+2021-11-01 23:48:48 pid:17477 Workerman[start.php] has been stopped
+2021-11-01 23:48:48 pid:11269 Workerman[public/vendor/webmsgsender/start.php] stop success
+2021-11-01 23:48:51 pid:11273 Workerman[public/vendor/webmsgsender/start.php] start in DAEMON mode
+2021-11-02 00:00:31 pid:11998 Workerman[public/vendor/webmsgsender/start.php] stop 
+2021-11-02 00:00:31 pid:11998 Workerman[public/vendor/webmsgsender/start.php] is stoping ...
+2021-11-02 00:00:31 pid:11275 Workerman[start.php] stopping ...
+2021-11-02 00:00:31 pid:11275 Workerman[start.php] has been stopped
+2021-11-02 00:00:31 pid:11998 Workerman[public/vendor/webmsgsender/start.php] stop success
+2021-11-02 00:00:44 pid:12072 Workerman[public/vendor/webmsgsender/start.php] stop 
+2021-11-02 00:00:44 pid:12072 Workerman[public/vendor/webmsgsender/start.php] not run
+2021-11-02 00:00:47 pid:12088 Workerman[public/vendor/webmsgsender/start.php] stop 
+2021-11-02 00:00:47 pid:12088 Workerman[public/vendor/webmsgsender/start.php] not run
+2021-11-02 00:00:50 pid:12100 Workerman[public/vendor/webmsgsender/start.php] stop 
+2021-11-02 00:00:50 pid:12100 Workerman[public/vendor/webmsgsender/start.php] not run
+2021-11-02 00:00:54 pid:12123 Workerman[public/vendor/webmsgsender/start.php] stop 
+2021-11-02 00:00:54 pid:12123 Workerman[public/vendor/webmsgsender/start.php] not run
+2021-11-02 00:01:00 pid:12170 Workerman[public/vendor/webmsgsender/start.php] stop 
+2021-11-02 00:01:00 pid:12170 Workerman[public/vendor/webmsgsender/start.php] not run
+2021-11-02 00:01:03 pid:12201 Workerman[public/vendor/webmsgsender/start.php] stop 
+2021-11-02 00:01:03 pid:12201 Workerman[public/vendor/webmsgsender/start.php] not run
+2021-11-02 00:01:06 pid:12215 Workerman[public/vendor/webmsgsender/start.php] stop 
+2021-11-02 00:01:06 pid:12215 Workerman[public/vendor/webmsgsender/start.php] not run
+2021-11-02 00:01:08 pid:12227 Workerman[public/vendor/webmsgsender/start.php] stop 
+2021-11-02 00:01:08 pid:12227 Workerman[public/vendor/webmsgsender/start.php] not run
+2021-11-02 00:01:25 pid:12347 Workerman[public/vendor/webmsgsender/start.php] stop 
+2021-11-02 00:01:25 pid:12347 Workerman[public/vendor/webmsgsender/start.php] not run
+2021-11-02 00:01:40 pid:12412 Workerman[public/vendor/webmsgsender/start.php] stop 
+2021-11-02 00:01:40 pid:12412 Workerman[public/vendor/webmsgsender/start.php] not run
+2021-11-02 00:01:48 pid:12421 Workerman[public/vendor/webmsgsender/start.php] start in DAEMON mode
+2021-11-02 00:04:07 pid:12575 Workerman[public/vendor/webmsgsender/start.php] start in DAEMON mode
+2021-11-02 00:04:07 pid:12575 Workerman[public/vendor/webmsgsender/start.php] already running
+2021-11-02 00:04:11 pid:12581 Workerman[public/vendor/webmsgsender/start.php] stop 
+2021-11-02 00:04:11 pid:12581 Workerman[public/vendor/webmsgsender/start.php] is stoping ...
+2021-11-02 00:04:11 pid:12423 Workerman[start.php] stopping ...
+2021-11-02 00:04:11 pid:12423 Workerman[start.php] has been stopped
+2021-11-02 00:04:11 pid:12581 Workerman[public/vendor/webmsgsender/start.php] stop success
+2021-11-02 00:05:46 pid:12688 Workerman[public/vendor/webmsgsender/start.php] start in DAEMON mode
+2021-11-02 01:15:51 pid:16961 Workerman[public/vendor/webmsgsender/start.php] stop 
+2021-11-02 01:15:51 pid:16961 Workerman[public/vendor/webmsgsender/start.php] is stoping ...
+2021-11-02 01:15:51 pid:12690 Workerman[start.php] stopping ...
+2021-11-02 01:15:51 pid:12690 Workerman[start.php] has been stopped
+2021-11-02 01:15:51 pid:16961 Workerman[public/vendor/webmsgsender/start.php] stop success
+2021-11-02 01:15:54 pid:16964 Workerman[public/vendor/webmsgsender/start.php] start in DAEMON mode
+2021-11-02 01:18:17 pid:17136 Workerman[public/vendor/webmsgsender/start.php] stop 
+2021-11-02 01:18:17 pid:17136 Workerman[public/vendor/webmsgsender/start.php] is stoping ...
+2021-11-02 01:18:17 pid:16966 Workerman[start.php] stopping ...
+2021-11-02 01:18:17 pid:16966 Workerman[start.php] has been stopped
+2021-11-02 01:18:17 pid:17136 Workerman[public/vendor/webmsgsender/start.php] stop success
+2021-11-02 01:18:22 pid:17145 Workerman[public/vendor/webmsgsender/start.php] start in DAEMON mode
+2021-11-02 01:25:00 pid:17594 Workerman[public/vendor/webmsgsender/start.php] stop 
+2021-11-02 01:25:00 pid:17594 Workerman[public/vendor/webmsgsender/start.php] is stoping ...
+2021-11-02 01:25:00 pid:17147 Workerman[start.php] stopping ...
+2021-11-02 01:25:00 pid:17147 Workerman[start.php] has been stopped
+2021-11-02 01:25:00 pid:17594 Workerman[public/vendor/webmsgsender/start.php] stop success
+2021-11-02 01:25:16 pid:17619 Workerman[public/vendor/webmsgsender/start.php] start in DAEMON mode
+2021-11-02 02:56:06 pid:23178 Workerman[public/vendor/webmsgsender/start.php] stop 
+2021-11-02 02:56:06 pid:23178 Workerman[public/vendor/webmsgsender/start.php] is stoping ...
+2021-11-02 02:56:06 pid:17621 Workerman[start.php] stopping ...
+2021-11-02 02:56:06 pid:17621 Workerman[start.php] has been stopped
+2021-11-02 02:56:06 pid:23178 Workerman[public/vendor/webmsgsender/start.php] stop success
+2021-11-02 02:56:14 pid:23192 Workerman[public/vendor/webmsgsender/start.php] start in DAEMON mode
+2021-11-02 02:57:39 pid:23298 Workerman[public/vendor/webmsgsender/start.php] stop 
+2021-11-02 02:57:39 pid:23298 Workerman[public/vendor/webmsgsender/start.php] is stoping ...
+2021-11-02 02:57:39 pid:23194 Workerman[start.php] stopping ...
+2021-11-02 02:57:39 pid:23194 Workerman[start.php] has been stopped
+2021-11-02 02:57:39 pid:23298 Workerman[public/vendor/webmsgsender/start.php] stop success
+2021-11-02 02:57:41 pid:23301 Workerman[public/vendor/webmsgsender/start.php] start in DAEMON mode
+2021-11-02 02:58:23 pid:23361 Workerman[public/vendor/webmsgsender/start.php] stop 
+2021-11-02 02:58:23 pid:23361 Workerman[public/vendor/webmsgsender/start.php] is stoping ...
+2021-11-02 02:58:23 pid:23303 Workerman[start.php] stopping ...
+2021-11-02 02:58:23 pid:23303 Workerman[start.php] has been stopped
+2021-11-02 02:58:23 pid:23361 Workerman[public/vendor/webmsgsender/start.php] stop success
+2021-11-02 02:58:31 pid:23374 Workerman[public/vendor/webmsgsender/start.php] start in DAEMON mode
+2021-11-07 16:36:53 pid:2454 Workerman[public/vendor/webmsgsender/start.php] start in DAEMON mode
+2021-11-07 16:57:26 pid:19990 Workerman[public/vendor/webmsgsender/start.php] stop 
+2021-11-07 16:57:26 pid:19990 Workerman[public/vendor/webmsgsender/start.php] is stoping ...
+2021-11-07 16:57:26 pid:2456 Workerman[start.php] stopping ...
+2021-11-07 16:57:26 pid:2456 Workerman[start.php] has been stopped
+2021-11-07 16:57:26 pid:19990 Workerman[public/vendor/webmsgsender/start.php] stop success
+2021-11-07 16:57:30 pid:19992 Workerman[public/vendor/webmsgsender/start.php] start in DAEMON mode
+2021-11-12 00:55:59 pid:13676 Workerman[public/vendor/webmsgsender/start.php] stop 
+2021-11-12 00:55:59 pid:13676 Workerman[public/vendor/webmsgsender/start.php] is stoping ...
+2021-11-12 00:55:59 pid:19994 Workerman[start.php] stopping ...
+2021-11-12 00:55:59 pid:19994 Workerman[start.php] has been stopped
+2021-11-12 00:55:59 pid:13676 Workerman[public/vendor/webmsgsender/start.php] stop success
+2021-11-12 01:34:48 pid:2477 Workerman[public/vendor/webmsgsender/start.php] start in DAEMON mode
+2021-11-30 17:56:44 pid:14658 Workerman[public/vendor/webmsgsender/start.php] start in DAEMON mode
+2021-12-03 01:36:18 pid:29582 Workerman[public/vendor/webmsgsender/start.php] start in DAEMON mode
