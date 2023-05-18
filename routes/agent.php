@@ -1,5 +1,8 @@
 <?php
 
+use Illuminate\Support\Facades\Route;
+
+
 //代理商管理员操作后台
 Route::get('agent/index', function () {
     return view('agent.index');

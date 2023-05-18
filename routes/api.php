@@ -1,8 +1,7 @@
 <?php
 
 use Illuminate\Http\Request;
-use Illuminate\Routing\Route;
-
+use Illuminate\Support\Facades\Route;
 
 /*
 |--------------------------------------------------------------------------
@@ -18,6 +17,7 @@ use Illuminate\Routing\Route;
 Route::middleware('auth:api')->get('/user', function (Request $request) {
     return $request->user();
 });
+
 Route::get('loginurl', 'Api\LoginController@jumpUrl'); //认购
 Route::post('project/order', 'Api\CurrencyProjectController@postOrder'); //认购
 Route::get('config/getSetting', 'Api\WalletController@getSetting'); //认购
